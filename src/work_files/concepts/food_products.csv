@@ -1,0 +1,1198 @@
+,term
+0,Denrées végétales et d'origine végétale
+1,Vegetable products
+2,Huiles
+3,Oils
+4,Huile d’olive
+5,Olive oil
+6,Oil and fat
+7,Huiles et graisses
+8,Wax/ACETEM 2
+9,White beeswax
+10,Barrier Fat 79®
+11,acetylated monopalmitine
+12,Wax/ACETEM 1
+13,CotebarTM M®
+14,Gel T 80%
+15,Gel T 10%
+16,Huile de tournesol
+17,Sunflower Oil
+18,Coconut oil
+19,Huile de coco
+20,Copra oil
+21,Huile de coprah
+22,Huile de pépin de raisin
+23,Grape seed Oil
+24,Gel T 30%
+25,Gel T 40%
+26,Gel T 20%
+27,Gel T 100%
+28,Miglyol 829
+29,Miglyol 812
+30,Glycerin
+31,Glycérine
+32,Gel T 50%
+33,Soybean Oil
+34,Huile de soja
+35,Gel T 70%
+36,Fruits et légumes
+37,Fruits and vegetables
+38,Frozen vegetables
+39,Végétaux surgelés
+40,Fruits et légumes congelés
+41,Frozen fruits and vegetables
+42,Produits végétaux de Ivème gamme
+43,Vegetable Ready to eat
+44,salade mélangée
+45,Mixed salad
+46,Ready to eat grated carrots
+47,Ivème gamme: carottes rapées
+48,Ready to eat salad
+49,Ivème gamme: salade minute
+50,Ivème gamme: courge en dés
+51,Ready to eat diced marrow
+52,Carottes rapées
+53,Grated carrots
+54,pommes de terre pelées sous vide
+55,Peeled vacuum packed potatoes
+56,mélange de crudités
+57,Raw vegetable mixture
+58,Légumes épluchés et tranchés
+59,Peeled and cut vegetables
+60,Ivème gamme: salade frisée
+61,Ready to eat curly lettuce
+62,Salade césar
+63,Caesar salad
+64,Ivème gamme: salade mélangée
+65,Ready to eat mixed salad
+66,Mélanges crudités
+67,Mixed raw vegetables
+68,pommes de terre pelées et fraîches
+69,Peeled potatoes
+70,Pomme de terre lavées et pelées
+71,Washed peeled potatoes
+72,Laitue coupée et conditionnée
+73,Cut and packed lettuce
+74,Lima beans
+75,Haricots lima
+76,Ready to eat endive
+77,Iveme gamme: salade
+78,Carottes râpées acidifiées
+79,Grated carotts with vinegar
+80,Chopped grated carrots
+81,Carottes râpées macérées
+82,Carotte après rappage sans sauce
+83,Grated carrots without sauce
+84,Refrigerated raw vegetables in sauce
+85,Végétaux crus réfrigérés en sauce
+86,Ready to eat carrots and cabbage
+87,Ivème gamme: carottes et chou
+88,Céleri râpé sans sauce
+89,Grated celery without sauce
+90,Fruits et légumes cuits
+91,Cooked fruits and vegetables
+92,purée de pommes de terre
+93,Potatoes puree
+94,Purée de légumes
+95,Vegetables puree
+96,Purées et végétaux cuits
+97,Purees and cooked vegetables
+98,Tomate: purée
+99,Tomato puree
+100,Purée de pois cassés
+101,Split peas puree
+102,Céleri: purée
+103,Celery puree
+104,Cooked vegetables
+105,Végétaux cuits
+106,Végétaux cuits sous vide
+107,Cooked vegetables vaccum packed
+108,Carrots puree
+109,Carottes: purée
+110,Artichaud: purée
+111,Artichoke puree
+112,Purée de poireaux
+113,Leek puree
+114,Spinach puree
+115,Purée d'épinard
+116,Pomme: purée
+117,Apple puree
+118,Dried fruits and vegetables
+119,Fruits et légumes secs ou séchés
+120,grape (variety Sultana)
+121,apricot (variety Canino)
+122,Dried vegetables
+123,Légumes secs ou séchés
+124,Tree nuts
+125,Fruits à coque
+126,grape (variety Moscatel Romano)
+127,Fruits secs ou séchés
+128,Dried fruits
+129,Raw fruits and vegetables
+130,Fruits et légumes frais
+131,Cabbage
+132,Chou
+133,Endive
+134,Chicory
+135,Chou fleur
+136,Cauliflower
+137,Sweet potato
+138,Patate douce
+139,Céleri
+140,Celery
+141,Melon
+142,Melon
+143,Melon
+144,Melon
+145,Tomate
+146,Tomato
+147,Jus de tomates
+148,Tomato juice
+149,Raw vegetables
+150,Végétaux crus
+151,Water melon
+152,Pastèque
+153,Carrots
+154,Carottes
+155,Betterave
+156,Beet
+157,soja
+158,Soya
+159,Soya tofu
+160,Soja: tofu
+161,Onion
+162,Oignon
+163,Raw onion
+164,Oignon cru
+165,Radis
+166,Radish
+167,Brocoli
+168,Broccoli
+169,Peeled orange
+170,Orange pelée
+171,Water melon skin
+172,Pastèque: peau
+173,Radis Japonais
+174,Japanese radish
+175,Fruits
+176,Fruits
+177,Olive
+178,Pawpaw
+179,Pear Bartlett
+180,Feijoa
+181,Longan
+182,Guava
+183,Asian Pear
+184,Bushberries
+185,Grapefruit
+186,Chestnut
+187,Mangosteen
+188,Lemon
+189,Watermelon
+190,Sliced kiwifruit
+191,Pomegranate
+192,Pear (Anjou Bosc Comice)
+193,Breadfruit
+194,Passion fruit
+195,Honeydrew
+196,Apple Granny Smith
+197,Banana
+198,Date
+199,Raspberry
+200,Apple
+201,Apple Fuji
+202,Apple Honeycrisp
+203,Sliced persimmon
+204,Sliced strawberry
+205,Durian
+206,Cherry sweatheart
+207,Cantaloupe
+208,Pitaya (Dragon fruit)
+209,Papaya
+210,Blueberries
+211,Pineapple
+212,Lychee
+213,Rambutan
+214,Cranberries
+215,Lime
+216,Quince
+217,Apple Gala
+218,Persimmon
+219,Pepino
+220,Gooseberries
+221,Sliced peach
+222,Strawberry
+223,Wildberries
+224,Kiwifruit
+225,Blackberries
+226,Plantain
+227,Starfruit (Carambola)
+228,Sapotes (Sapodilla Mamey Sapote)
+229,Avocado
+230,Apple Red Delicious
+231,Cherimoya
+232,Cherry
+233,Cactus (Prickly) Pear
+234,Loquat
+235,Orange
+236,Apricot
+237,Melon Cataloupe
+238,Grape
+239,Melon Honeydew
+240,Plum
+241,Mango
+242,Cherry bing
+243,Dried Fruits and Nuts
+244,Redberries
+245,Blackcurrant
+246,Apple Golden Delicious
+247,Sliced pear
+248,Nectarine and Peach
+249,Nectarine
+250,Nectarine
+251,Pêche
+252,Peach
+253,Pear
+254,Tamarillo
+255,Mandarin/Tangerine
+256,Jujube Chinese
+257,Jackfruit
+258,Champignon
+259,Mushroom
+260,Cucumber
+261,Concombre
+262,Sweet corn
+263,Maïs doux
+264,Agrumes
+265,Citrus fruits
+266,Courgette
+267,Courgette
+268,Vegetables
+269,Légumes
+270,Sliced or whole peeled potato
+271,Sliced zucchini
+272,Rocket
+273,Sliced tomato
+274,Sliced or diced mushrooms
+275,Artichoke
+276,Diced peppers
+277,Chopped romaine lettuce
+278,Chopped green leaf lettuce
+279,Légumes tranchés
+280,Cut vegetables
+281,Asparagus
+282,Cubed honey dew
+283,Chopped red leaf lettuce
+284,Sliced mushrooms
+285,Chopped butterhead lettuce
+286,Cubed cantaloupe
+287,Sliced leek
+288,Sliced or diced onions
+289,Shredded cabbage
+290,Shredded
+291,Sliced rutabaga
+292,Chopped or shredded iceburg lettuce
+293,Salad
+294,Salade
+295,Salade italienne
+296,Italian salad
+297,Salade type mâche
+298,Mache
+299,Salade: batavia
+300,Batavia lettuce
+301,Salad florida
+302,Salade florida
+303,Salade scarole
+304,Endive
+305,Iceberg salad
+306,Salade iceberg
+307,Laitue
+308,Lettuce
+309,Romaine lettuce
+310,Laitue Romaine
+311,Laitue iceberg
+312,Iceberg lettuce
+313,Spinach
+314,Epinard
+315,Petit pois
+316,Green pea
+317,Bulbes et racines
+318,Root vegetables
+319,Fig
+320,Figue
+321,Garlic
+322,Ail
+323,Crudités
+324,Raw vegetable salads
+325,Pommes de terre
+326,Potatoes
+327,Water melon flesh
+328,Pastèque: chair
+329,Chou rouge
+330,Red cabbage
+331,Haricots verts
+332,Green beans
+333,Choux de Bruxelles
+334,Brussels sprouts
+335,Ingrédients et condiments
+336,Ingredients and condiments
+337,Mustard condiments spices
+338,Mustard condiments spices
+339,Mustard condiments spices
+340,Moutardes
+341,Moutardes
+342,Moutardes
+343,Spices
+344,Epices
+345,Parsley
+346,Persil
+347,Sauce
+348,Sauce
+349,Soy sauce
+350,Sauce de soja
+351,Poivre vert
+352,Green pepper
+353,Poivre
+354,Pepper
+355,Ingredients
+356,Ingrédients
+357,Starch additive
+358,Amidon
+359,Cassava starch
+360,Amidon de manioc
+361,Herbes
+362,Herbs
+363,Levure
+364,Yeast
+365,Sucrose
+366,saccharose
+367,Corn syrup
+368,Sirop de maïs
+369,Starch paste
+370,Pâte d'amidon
+371,Brine
+372,Saumure
+373,Processed vegetables
+374,Végétaux transformés
+375,Ketchup
+376,Ketchup
+377,Vinegar
+378,Vinaigres
+379,sauce tomate
+380,Tomato sauce
+381,Cut or sliced fruits and vegetables
+382,Fruits et légumes coupés
+383,Legumes
+384,Légumineuses
+385,Céréales et produits à base de céréales
+386,Cereals and cereal products
+387,Semolina and pasta
+388,Semoules et pâtes
+389,Pasta
+390,Pâtes
+391,Pâtes Trofie
+392,Trofie pasta
+393,Pâtes Gnocchi
+394,Gnocchi pasta
+395,Pâtes Tortelloni
+396,Tortelloni pasta
+397,Pâtes Lasagne
+398,Lasagna pasta
+399,cassava flour
+400,Rusks and biscuits
+401,Biscottes et biscuits
+402,Dry biscuit (wafer type)
+403,Sponge cake
+404,Cream pastries
+405,Pâtisserie et crèmes
+406,bulgur
+407,Farine d'avoine
+408,Oatmeal
+409,Pastries
+410,Pâtisserie
+411,Farine
+412,Flour
+413,Pastries and flours
+414,Pâtisseries et farines
+415,Céréales
+416,Cereals
+417,Sorgho
+418,Sorghum
+419,céréales reconstituées avec du lait
+420,Reconstituted cereals with milk
+421,Riz
+422,Rice
+423,Riz bouilli
+424,Boiled rice
+425,Céréale au riz infantile
+426,Rice baby food
+427,Pdts de la boulangerie et de la viennoiserie
+428,Bakery products
+429,Flocons et germes de céréales
+430,cereal flakes and germs
+431,Germinated wheat grains
+432,Graines de blé germées
+433,Soupe
+434,Soup
+435,Minestrone
+436,Minestrone
+437,Produits sucrés
+438,Sweetened products
+439,Confitures et compotes
+440,Jams and stewed fruit
+441,0.50 aw agar gel
+442,0.60 aw agar gel
+443,jam (aw=0.64)
+444,0.70 aw agar gel
+445,0.75 aw agar gel
+446,chocolat fondu
+447,Melted chocolate
+448,Desserts sucrés
+449,Desserts
+450,Desserts sucrés à base de lait
+451,Milk based desserts
+452,Rice pudding
+453,riz au lait
+454,Chocolat
+455,Chocolate
+456,Milk chocolate
+457,Chocolate sauce
+458,sauce chocolat
+459,White chocolate
+460,Dark chocolate
+461,Honey
+462,Miel
+463,Sugar
+464,Sucre
+465,Sucre de cane
+466,Cane sugar
+467,Mélasse
+468,Molasses
+469,Milieu de culture
+470,Culture medium
+471,Liquid culture medium BTV5
+472,Milieu de culture liquide BTV5
+473,Liquid culture medium
+474,Milieu de culture liquide
+475,Plats cuisinés
+476,Cooked dishes
+477,Pre cooked meat dishes
+478,Plats cuisinés à base de viande
+479,Chili
+480,Chili
+481,Cooked rice based dishes
+482,Plats à  base de riz cuit
+483,Produits à base de tomate
+484,Tomato based products
+485,Sweet pastries
+486,Patisseries
+487,Cooked vegetable dishes
+488,Plats à base de végétaux cuits
+489,Sausage
+490,Saucisse
+491,Plat cuisinés à base de lait
+492,Pre cooked milk based dishes
+493,Plats cuisinés à base de riz
+494,Pre cooked rice base dishes
+495,Pre Cooked vegetable dishes
+496,Plats cuisinés à base de légumes
+497,Quenelle
+498,Quenelles
+499,Rice with tomato
+500,Riz à la tomate
+501,Cooked fish dishes
+502,Poissons cuits
+503,Produits à base de poisson
+504,Fish based products
+505,Meat or vegetables with mayonnaise
+506,Viande ou légumes avec mayonnaise
+507,Pesto sauce
+508,Sauce bolognaise
+509,Bolognia sauce
+510,Cooked milk based dishes
+511,Plats à base de lait cuit
+512,Cooked meat dishes
+513,Viande cuite
+514,Animal products (Secondary sector)
+515,Produits carnés finis
+516,Mélange viande de boeuf et mayonnaise
+517,Beef meat and mayonnaise
+518,Nugget de poulet
+519,Chicken nugget
+520,Pizza
+521,Pizza
+522,Paté de viande
+523,Luncheon meat
+524,Jus de viande
+525,Meat juice
+526,Hamburger
+527,Hamburger
+528,salades composées à base de poulet
+529,Chicken salad
+530,boeuf en sauce
+531,Beef with sauce
+532,Mélange végétaux et viande
+533,Mixed Vegetables And Meat
+534,Turkey with sauce
+535,Dinde en sauce
+536,Succotash
+537,Succotash
+538,Denrées animales et d'origine animale
+539,Animal products
+540,Milk and dairy products
+541,Lait et produits laitiers
+542,Lait de consommation
+543,Non fermented milk products
+544,Lait aromatisé
+545,Milk shakes
+546,Reconstituted milk fruit flavoured
+547,Lait reconstitué arômatisé aux fruits
+548,Sterilized milk
+549,Lait stérilisé
+550,Lait de conserve
+551,Conserved milk
+552,Lait écrémé concentré
+553,Condensed Milk
+554,Lait en poudre (additifs)
+555,Dried milk
+556,Infant milk powder
+557,Lait infantile en poudre
+558,Lait en poudre stérile et reconstitué
+559,Reconstituted milk
+560,Lait entier en poudre
+561,Dried milk whole
+562,Lait écrémé en poudre sucré
+563,Skimmed milk dried and sweetened
+564,Lait écrémé en poudre
+565,Skimmed milk dried
+566,Evaporated Milk
+567,Lait concentré
+568,Substitut lait maternel
+569,Maternal milk substitute
+570,Lait infantile
+571,Infant milk
+572,Lait écrémé
+573,Skimmed milk
+574,Lait écrémé pasteurisé
+575,Pasteurised skimmed milk
+576,Lait écrémé stérilisé
+577,Sterilised skimmed milk
+578,Whole milk
+579,Lait entier
+580,Pasteurized whole milk
+581,Lait entier pasteurisé
+582,Sterilized whole milk
+583,Lait entier stérilisé
+584,Lait cru
+585,Raw Milk
+586,Raw goat milk
+587,Lait de chèvre cru
+588,Lait aromatisé emprésurés
+589,Thickened milk shakes enzymatically
+590,Thickened milk shakes gellifiant
+591,Lait aromatisé gélifiés
+592,Semi skimmmed milk
+593,Lait demi écrémé
+594,Lait demi écrémé stérilisé
+595,Sterilised Semi skimmmed milk
+596,Lait demi écrémé pasteurisé
+597,Pasteurized Semi skimmmed milk
+598,Pdts laitiers: autres
+599,Dairy products others
+600,Concentrated milk protein
+601,Concentrés protéines laitières
+602,Saumure de mozarella
+603,Mozzarella brine
+604,Buttermilk
+605,Buttermilk
+606,Buttermilk
+607,lait battu
+608,lait battu
+609,lait battu
+610,Protéines laitières
+611,Milk proteins
+612,Produits laitiers
+613,Dairy products
+614,Chocolate cream
+615,Crème au chocolat
+616,Dessert lacté au riz
+617,Milk dessert with rice
+618,produit laitier base crème glacée
+619,Dairy products ice cream based
+620,Produit laitier UHT
+621,Dairy products UHT
+622,Dssert à la crème
+623,Dessert cream
+624,Béchamel
+625,White sauce
+626,Crème caramel
+627,Cream caramel
+628,Vanilla flan
+629,Flanc vanille
+630,Dairy products vanilla sauce based
+631,produit laitier base sauce vanille
+632,Dessert with milk and rice
+633,Produit dessert lacté au riz
+634,Dessert lacté aux abricots
+635,Milk dessert with apricots
+636,produit laitier base sauce chocolat
+637,Dairy products chocolate sauce based
+638,Custard
+639,Crème anglaise
+640,Vanilla flan with caramel sauce
+641,Flanc vanille avec sauce caramel
+642,Industrial dairy products
+643,Produit laitier industriel
+644,Ice creams and sorbets
+645,Glaces et sorbets
+646,Crèmes glacées
+647,Ice cream
+648,Lait
+649,Milk
+650,Butter
+651,Beurre
+652,Cheese
+653,Fromage
+654,Munster
+655,Cheese Munster
+656,Cheese Monterey Jack
+657,Fromage type Monterey Jack
+658,Fromage veiné
+659,Cheese veined 
+660,Fromage Gorgonzola
+661,Cheese Gorgonzola
+662,Cheese Havarti
+663,Fromage type Havarti
+664,Fromage à pâte pressée
+665,Cheese pressed curd
+666,Cheese pressed curd cooked
+667,Fromage à pâte pressée cuite
+668,Cheese pressed curd uncooked
+669,Fromage à pâte pressée non cuite
+670,Fromage type Portsalut
+671,Cheese Portsalut type
+672,Fresh cheese
+673,Fresh cheese
+674,Fromage blanc
+675,Fromage blanc
+676,Cream cheese
+677,Fromage crémeux
+678,Fromage frais pasteurisé
+679,Fresh pasteurised cheese
+680,Cheese Brick
+681,Brick au fromage
+682,Co Jack (mélange de Colby et Monterey)
+683,Cheese Co Jack (mix of Colby and Monterey Jack)
+684,Edam
+685,Cheese Edam
+686,Cheese Snellina
+687,Fromage Snellina
+688,Fromage type Bonbel
+689,Cheese wax packed Edam type
+690,Fromage à pâte semi-dure
+691,Cheese semi-hard
+692,Cheese Spun paste Mozzarelle type
+693,Fromage à pâte filée
+694,Cheese rindless
+695,Fromage sans croûte
+696,Chicken cottage
+697,Cottage au poulet
+698,Mozarella
+699,Mozarella
+700,Cheese cheddar
+701,Cheddar
+702,Lait caillé
+703,Junket
+704,Cheese Brie
+705,Brie
+706,Colby
+707,Cheese Colby
+708,Cheese Taleggio
+709,Fromage Taleggio
+710,Feta
+711,Cheese Feta
+712,Cheese hard
+713,Fromage à pâte dure
+714,Cheese swiss emmental
+715,Fromage emmental suisse
+716,Processed cheese
+717,Fromage fondu
+718,Fromage Monterey
+719,Cheese aged Monterey
+720,Fromage Parmesan
+721,Cheese Parmesan
+722,Cheese Blue veined
+723,Fromage à pâte persillée
+724,Cheese soft
+725,Fromage à pâte molle
+726,Fromage Casatella
+727,Cheese Casatella
+728,Cheese soft with washed rind Munster type
+729,Fromage à pâte molle croûte lavée
+730,Fromage Crescenza
+731,Cheese Crescenza
+732,Fromage à pâte molle croute fleurie
+733,Cheese soft with bloomy rind Brie Camembert type
+734,Camembert
+735,Camembert
+736,Cream of milk
+737,Crème de lait
+738,crème sure
+739,Sour cream
+740,Crème allégée en matière grasse
+741,Low fat cream
+742,UHT Cream
+743,Crème UHT
+744,Pasteurised cream
+745,Crème pasteurisée
+746,Cream
+747,Crème
+748,Semi skimmed cream
+749,Crème demi écrémée
+750,Whipped cream
+751,Crème fouettée
+752,Non pasteurised cream
+753,Crème fraîche crue
+754,Double cream
+755,Crème double
+756,Margarine
+757,Margarine
+758,Yoghurts and fermented milks
+759,Yaourts et laits fermentés
+760,Yoghurt with fruit
+761,Yaourt aux fruits
+762,Petit lait
+763,Petit lait
+764,Whey
+765,Whey
+766,Fermented milk
+767,Lait fermenté
+768,Yoghurt
+769,Yaourt
+770,Milk permeate ultrafiltrate
+771,Lait:perméat
+772,Seafood and freshwater products
+773,Produits de la mer et d'eau douce
+774,Frog legs
+775,Cuisses de grenouilles
+776,Crustacé
+777,Shellfish
+778,Palourdes
+779,Clam
+780,Lobster
+781,Homard
+782,Shrimps
+783,Crevettes
+784,Crabe
+785,Crab
+786,Sea and freshwater fishes and cephalopods
+787,Poissons de mer et d'eau douce et céphalopodes
+788,Seiches
+789,Cuttlefish
+790,oeufs de poissons
+791,Fish eggs
+792,Poisson
+793,Fish
+794,Poisson séché et salé
+795,Dried salted fish
+796,Poisson congelé
+797,Frozen fish
+798,Fresh fish
+799,Poisson frais
+800,Hake
+801,Colin
+802,Tuna
+803,Thon
+804,Baudroie
+805,Anglerfish
+806,Saumon
+807,Salmon
+808,Wolf-fish
+809,Morue
+810,Cod
+811,Cod fillet
+812,Filet de morue
+813,Poisson fumé
+814,Smoked fish
+815,Smoked herring
+816,Hareng fumé
+817,Smoked salmon
+818,Saumon fumé
+819,Smoked carp
+820,Carpe fumée
+821,Sharks and related fish
+822,Sélaciens
+823,Fish with vinegar
+824,Poisson au vinaigre
+825,Phoque du Groenland
+826,Harp seal oil
+827,Snails
+828,Escargots
+829,Fish oils
+830,Huiles de poisson
+831,Huile de foie de morue
+832,Cod Liver oil
+833,Red fish oil
+834,Huile de poisson rouge
+835,Mackeral Oil
+836,Huile de maquereau
+837,Flounder oil
+838,Huile de flet
+839,Herring oil
+840,Huile de hareng
+841,Huile de capelan
+842,Capelin oil
+843,Plats cuisinés à base de poisson
+844,Pre cooked fish dishes
+845,Salade de produits de la mer
+846,Seafood salad
+847,Surimi
+848,Surimi
+849,oeuf et ovoproduits
+850,Egg and egg products
+851,Ovoproduit
+852,Egg products
+853,Salade d'oeufs
+854,Egg salad
+855,Liquid egg
+856,Coule d'oeuf
+857,Albumen egg
+858,produits à base d'oeufs liquides pasteurisé
+859,Pasteurized liquid egg based products
+860,Mayonnaise
+861,Mayonnaise
+862,Oeufs liquides pasteurisés
+863,Pasteurized liquid eggs
+864,Liquid egg sugared
+865,Coule d'oeuf sucrée
+866,jaune d'oeuf
+867,Egg yolk
+868,Produits à base oeufs crus
+869,Raw egg based products
+870,oeuf
+871,Egg
+872,Viandes et produits à base de viande
+873,Meat and meat products
+874,Fresh Meat
+875,Viandes fraiches
+876,Horse
+877,Cheval
+878,Solipèdes
+879,Equines
+880,Ovins
+881,Ovines
+882,Lamb
+883,Agneau
+884,Gras d’agneau
+885,Lamb fat
+886,Mouton
+887,Sheep
+888,Mutton
+889,Viande de mouton
+890,Viande hachée
+891,Minced meats
+892,Minced meat frozen
+893,Viande hachée congelée
+894,Viande hachée non congelée
+895,Minced meat fresh
+896,Viande hachée conditionnée sous vide
+897,Minced meat vaccum packed
+898,Viande hachée non conditionnée
+899,Minced meat not packed
+900,Viande hachée conditionnée sous atmosphère  modifiée
+901,Minced meat packed under modified atmosphere
+902,Viande de dinde hachée
+903,Turkey meat minced
+904,Volailles
+905,Poultry
+906,Poulet: cuisse et pilon
+907,Poulet: cuisse et pilon
+908,Chicken drumstick
+909,Chicken drumstick
+910,Chicken breast
+911,Poulet: blanc
+912,Viande de dinde
+913,Turkey meat
+914,Poultry meat
+915,Viande de volaille
+916,Turkey meat roast
+917,Viande de dinde rôtie
+918,Poulet: peau
+919,Chicken skin
+920,Poulet: cuisses avec peau
+921,Chicken leg with skin
+922,Poulet: cuisses
+923,Chicken leg
+924,Poulet: blanc et aile
+925,Chicken breast and wing
+926,Poulet
+927,Chicken
+928,Chicken escalope
+929,Poulet: escalope
+930,Gibier
+931,Game
+932,Chevreuil
+933,Venison
+934,Pork
+935,Porcins
+936,Pork meat ham backbone
+937,Viande de porc: échine
+938,Salted pork
+939,Porc salé
+940,Pork meat ham loin
+941,Viande de porc: longe
+942,Raw pork
+943,Porc
+944,Bovins
+945,Bovines
+946,Viande de boeuf
+947,Beef
+948,Beef sausage
+949,Viande de boeuf: saucisse
+950,Viande de boeuf: ragout
+951,Beef stew
+952,Beef brisket
+953,Viande de boeuf: poitrine
+954,Viande de boeuf: tissu conjonctif
+955,Beef conjunctive tissue
+956,Roast shoulder steak
+957,Viande de boeuf: paleron (rôti)
+958,Roasted Chuck
+959,Paleron de bœuf rôti
+960,Beef fatty
+961,Viande de boeuf: gras
+962,Cooked beef
+963,Viande de boeuf cuite
+964,Veau
+965,Veal
+966,Beef mince
+967,Boeuf haché
+968,Viande de boeuf crue
+969,Raw beef
+970,Viande de boeuf: aloyau
+971,Sirloin
+972,Viande de boeuf: filet Américain
+973,Beef American fillet
+974,Beef paste
+975,Viande de boeuf: paté
+976,Beef roast Beef
+977,Viande de boeuf: roast beef
+978,Lapin
+979,Rabbit
+980,Viandes attendries
+981,Tenderised meats
+982,Caprins
+983,Goats
+984,Meat cuts (secondary industry sector)
+985,Pièces de découpes (2ème transformation)
+986,Fresh meat cuts
+987,Pièces de découpes non congelées
+988,Meat packed under modified atmosphere
+989,Pièces de découpes Conditionnés sous atmo modifiée
+990,Vacuum packed meat cuts
+991,Pièces de découpes Conditionnés sous vide
+992,Pièces de découpes Non conditionnées
+993,Non packed meat cuts
+994,Pièces de découpe congelées
+995,Deep frozen meat cuts
+996,Produits à base de viande
+997,Meat products
+998,Viande salée
+999,Salted meat
+1000,Produits à base de Viande de porc
+1001,Pork Meat Products
+1002,Saucisse chinoise
+1003,Chinese sausage
+1004,Tranche de jambon sec
+1005,Slice of dried ham
+1006,Viande de porc: saucisse de foie
+1007,Pork liver sausage
+1008,salami épicé
+1009,Pepperoni
+1010,Smoked ham
+1011,Jambon fumé
+1012,Viande de porc: bacon
+1013,Pork meat ham bacon
+1014,Saucisse fumée
+1015,Smoked sausage
+1016,Pork Meat ham sausage
+1017,Viande de porc: saucisse de jambon
+1018,Lard Oil
+1019,Huile de saindoux
+1020,Pâté traditionnel
+1021,Traditional pate
+1022,Rillettes
+1023,Potted meat
+1024,Saucisse à tartiner
+1025,Meat paste
+1026,Cervelas
+1027,Saveloy
+1028,Meat pasty
+1029,Meat pasty
+1030,pâté en croute
+1031,pâté en croute
+1032,Pork sausage
+1033,Saucisse de porc
+1034,Dried cured pork meat product
+1035,Viande de porc fumée et séchée
+1036,Pork meat ham
+1037,Pork meat ham
+1038,Viande de porc: jambon
+1039,Viande de porc: jambon
+1040,Jambon cuit
+1041,Cooked ham
+1042,Chitterlings sausage
+1043,Andouille
+1044,Coppa (Italian smoked sausage)
+1045,Coppa
+1046,Raw salted ham
+1047,Jambon salé
+1048,Pork tongue in jelly
+1049,Langue de porc en gelée
+1050,Pate
+1051,Pâté
+1052,Bacon
+1053,Bacon
+1054,Bacon
+1055,Bacon
+1056,Bacon
+1057,Bacon
+1058,Roulade
+1059,Roulade
+1060,Pâté : mousse
+1061,Pate mousse
+1062,Boudin blanc
+1063,White pudding
+1064,Sausage other than dried
+1065,Saucisse fraîche
+1066,Gras de porc
+1067,Pork fat
+1068,Porc: jambon sec
+1069,Pork dried ham
+1070,Mortadelle
+1071,Mortadella
+1072,Pork meat ham liver sausage
+1073,Viande de porc: saucisse de foie
+1074,Salami
+1075,Salami
+1076,Continental sausage
+1077,Continental sausage
+1078,Viande Séparée Mécaniquement
+1079,Mechanically separated meat
+1080,Gelatin gel
+1081,Gélatine
+1082,Meat primary transformation products
+1083,Carcasse abats (1ere transformation)
+1084,Abats
+1085,Abats
+1086,Offal
+1087,Offal
+1088,Tongue
+1089,Langue
+1090,Sang
+1091,Blood
+1092,Sang de porc
+1093,Pork blood
+1094,Oreille
+1095,Ear
+1096,Estomacs
+1097,Stomachs
+1098,Cheek
+1099,Joue
+1100,Cervelle
+1101,Brain
+1102,Coeur
+1103,Heart
+1104,Museau
+1105,Muzzle
+1106,Rate
+1107,Spleen
+1108,Queue
+1109,Tail
+1110,Udder
+1111,Mamelle
+1112,Rein
+1113,Kidney
+1114,Thymus (Ris)
+1115,Thymus
+1116,Intestins
+1117,Intestines
+1118,Vessie
+1119,Bladder
+1120,Liver
+1121,Foie
+1122,Graisses
+1123,Fats
+1124,Testicule
+1125,Testicle
+1126,Lung
+1127,Poumon
+1128,Carcasses
+1129,Carcasses
+1130,Porc: carcasse
+1131,Pork carcass
+1132,Boeuf: carcasse
+1133,Boeuf: carcasse
+1134,Beef carcass
+1135,Beef carcass
+1136,Lamb carcass
+1137,Agneau carcasse
+1138,Chicken carcass
+1139,Poulet: carcasse
+1140,Emulsion
+1141,Emulsion
+1142,Drinks
+1143,Boissons
+1144,Boisson alcoolisées
+1145,Alcoholic drinks
+1146,Cidre
+1147,Cider
+1148,Non alcoholic drinks
+1149,Boisson non alcoolisées
+1150,Eaux minérales
+1151,Mineral waters
+1152,Jus de légumes
+1153,Vegetable juice
+1154,Fruit juice
+1155,Jus de fruit
+1156,Jus d'orange
+1157,Orange juice
+1158,Apple juice
+1159,Jus de pommes
+1160,Water
+1161,Environment and others
+1162,Environnement et divers
+1163,Ensilage
+1164,Ensilage
+1165,Used litter
+1166,litière utilisée
+1167,Flavoured sugar
+1168,Poudre calorique aromatisée
+1169,Silage
+1170,Fourage
+1171,Lait en bouteille
+1172,Bottled milk
+1173,Health supplement
+1174,Supplément diététique
+1175,Air
+1176,Air
+1177,Baby foods
+1178,Aliments pour bébés
+1179,concentrés
+1180,Concentrates
+1181,Hospital food
+1182,Aliment hospitalier
+1183,Fécès
+1184,Faeces
+1185,Synthetic products
+1186,Produit synthétique
+1187,Animal feed
+1188,Aliments pour animaux
+1189,Cow udder
+1190,Mammelles de vaches
+1191,Unused litter
+1192,litière inutilisée
+1193,Surgelés
+1194,Deep frozen foods
+1195,Eau de process
+1196,Process Water

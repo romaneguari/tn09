@@ -1,0 +1,800 @@
+,term
+0,Blend
+1,starch (aw ext 0.536 - aw int 0.762)
+2,(30% w/w) glycerol/soluble soybean polysaccharide
+3,(20% w/w) glycerol/soluble soybean polysaccharide
+4,starch-cellulose nanocrystals (aw ext 0.329 - aw int 0.762)
+5,starch-cellulose nanocrystals (aw ext 0.000 - aw int 1.000)
+6,starch (aw ext 0.329 - aw int 0.762)
+7,(50wt%) Soy protein isolate/ (50wt%) Polylactic Acid
+8,starch-cellulose nanocrystals (aw ext 0.329 - aw int 0.536)
+9,(0% w/w) glycerol/soluble soybean polysaccharide
+10,Polyethylene/Polystyrene Alloy
+11,starch (aw ext 0.762 - aw int 1.000)
+12,starch (aw ext 0.329 - aw int 0.536)
+13,(60wt%) Soy protein isolate/ (40wt%) Polylactic Acid
+14,starch-cellulose nanocrystals (aw ext 0.536 - aw int 0.762)
+15,starch (aw ext 0.000 - aw int 1.000)
+16,(40% w/w) glycerol/soluble soybean polysaccharide
+17,starch-cellulose nanocrystals (aw ext 0.762 - aw int 1.000)
+18,Emballage multi-couches
+19,Emballage multi-couches
+20,Multilayers
+21,Multilayers
+22,Laminar Multilayer Structure
+23,Amylouronic acid(COOH)/Polyethylene Terephthalate
+24,Modified biaxially oriented polypropylene
+25,Modified biaxially oriented polypropylene
+26,Chitouronic acid(COOH)/Polyethylene Terephthalate
+27,Cellouronic acid(COOH)/Polyethylene Terephthalate
+28,Alginic acid(COONH4)/Polyethylene Terephthalate
+29,Ecoflex+Ecovio/Ecovio/Ecoflex+Ecovio
+30,Cellophane/PLA
+31,(Oriented polyamide)/adhesive/polypropylene copolymer
+32,Bioska 504 multilayer PLA
+33,Cellouronic acid(COONa)/Polyethylene Terephthalate
+34,Natureflex/PLA
+35,Alginic acid(COONa)/Polyethylene Terephthalate
+36,Chitosan/Polyethylene Terephthalate
+37,Chitournic acid/Polyethylene Terephthalate
+38,PET/SiOx/PA/PP
+39,Pectic acid/Polyethylene Terephthalate
+40,Amylouronic acid(COONa)/Polyethylene Terephthalate
+41,OPET/EVOH/PE
+42,multilayered biobased films
+43,Multilayer Films with Ethylene-Vinyl Alcohol Copolymer Barrier
+44,PET/adhesive/PE
+45,Chitosan (dried)/Polyethylene
+46,Chitosan (dried)/Polyethylene
+47,Chitosan (dried)/Polyethylene
+48,Chitosan (dried)/Polyethylene
+49,Coated paper with gluten
+50,Chitouronic acid(COONa)/Polyethylene Terephthalate
+51,multilayered biobased plastics
+52,PHB/Ecoflex
+53,OPA/adhesive/PE
+54,Paper/polyethylene/aluminium/polyethylene
+55,Water soluble startch/Polyethylene Terephthalate
+56,Microcrystalline cellulose/Polyethylene Terephthalate
+57,Amylouronic acid/Polyethylene Terephthalate
+58,Hydroxyethyl cellulose/Polyethylene Terephthalate
+59,Alginic acid/Polyethylene Terephthalate
+60,Chitosan/Polyethylene
+61,mixed matrix membranes
+62,PES/TiO2 mixed matrix membranes
+63,PES/MMT MMMs
+64,PES/MMT
+65,chitosan coated polyethylene
+66,Polyvinyl Alcohol/Polyethylene Terephthalate
+67,Gelatin (11.8% w/w)/glycerol (3.9%w/w)/acetic acid ester (5.9%)/polyethylene terephtalate
+68,Gelatin (11.8% w/w)/glycerol (3.9% w/w)/acetic acid ester (5.9%)/low-density polyethylene
+69,Wheat gluten/paper
+70,Cellophane/Metal layer/PLA
+71,Chitosan/paper
+72,Co-Continuous Lamellae Multilayer Structure
+73,Co-Continuous Lamellar Injection Molded Multilayer Structure
+74,Carboxymethyl cellulose/Polyethylene Terephthalate
+75,Paper/AlOx/PLA
+76,multilayer pigmented HDPE
+77,Gelatin (11.8% w/w)/glycerol (3.9%w/w)/acetic acid ester (5.9%)/oriented polypropylene
+78,Multilayer Films with Polyvinylidene Chloride Barrier
+79,Cellouronic acid/Polyethylene Terephthalate
+80,Biopolymères
+81,Biopolymers
+82,Starch(3%m/v)/CarboxymethylCellulose(2%m/v)/Glycerol(1.5 %m/v)
+83,Rice flour Josapar S.A +3wt%sorbitol
+84,Rice flour Josapar S.A +2wt%sorbitol
+85,Starch(5%m/v)/Glycerol(1.5 %m/v)
+86,Starch(3.5%m/v)/Gelatin(1.5%m/v)/Glycerol(1.5 %m/v)
+87,Biopolyesters
+88,(20%wt) wheat straw fibers/Poly(3-hydroxybutyrate-co-3-hydroxyvalerate)
+89,Polylactic acid
+90,Polylactic acid
+91,Polylactic acid
+92,Polylactic acid
+93,Polylactic acid
+94,Polylactic acid
+95,Polylactic acid
+96,poly(80% l-lactide
+97,Oriented polylactic acid
+98,Amorphous PLA
+99,poly(50% l-lactide
+100,poly(98.7% l-lactide
+101,Metallized PLA
+102,PLA tray
+103,PLA(4060D)
+104,PLA(4032D)
+105,Poly(3-hydroxybutyrate-co-3-hydroxyvalerate)
+106,Poly(3-hydroxybutyrate-co-3-hydroxyvalerate)
+107,PLA (SH-PLA-19)
+108,(20%wt) olive mills/Poly(3-hydroxybutyrate-co-3-hydroxyvalerate)
+109,(6%wt) wheat straw fibers/Poly(3-hydroxybutyrate-co-3-hydroxyvalerate)
+110,Poly(butylene cyclohexanedicarboxylate55/diglycolate45)
+111,Poly(butylene cyclohexanedicarboxylate)
+112,Poly(butylene cyclohexanedicarboxylate90/diglycolate10)
+113,Poly(butylene cyclohexanedicarboxylate70/diglycolate30)
+114,Poly(butylene cyclohexanedicarboxylate40/diglycolate60)
+115,Polycaprolactones
+116,(30%wt) wheat straw fibers/Poly(3-hydroxybutyrate-co-3-hydroxyvalerate)
+117,PLA (270-60-3)
+118,Poly(butylene cyclohexanedicarboxylate25/diglycolate75)
+119,PLA(4031D)
+120,Polylactic acid/Butylated hydroxyanisole/polyethylene glycol 400
+121,poly(98% l-lactide)/Polylactic Acid
+122,Polyhydroxybutyrate
+123,Poly(butylene diglycolate)
+124,Poly(butylene cyclohexanedicarboxylate5/diglycolate95)
+125,Poly(butylene cyclohexanedicarboxylate80/diglycolate20)
+126,poly(94% l-lactide)/Polylactic Acid
+127,PLA(4041D)
+128,PLA (SH-PLA-43)
+129,Polylactic acid/Butylated hydroxyanisole/polyethylene glycol 400/tocopherol
+130,(10%wt) wheat straw fibers/Poly(3-hydroxybutyrate-co-3-hydroxyvalerate)
+131,Rice flour Josapar S.A +2wt%Glycerol
+132,Starch(4%m/v)/Gelatin(1%m/v)/Glycerol(1.5 %m/v)
+133,Polysaccharides
+134,Chitosan (1% w/v)/glycerol (0.4% w/v)
+135,Methylcellulose (3% w/v)/ethanol (50%)/PEG400 (1.32g)
+136,Agave fibres
+137,(2vol%) oregano oil/quince seed mucilage
+138,Flax fibres
+139,Methylcellulose (3% w/v)/ethanol (75%)
+140,Sisal cellulose whisker film
+141,NatureFlex N913
+142,(1.5vol%) oregano oil/quince seed mucilage
+143,Galactomannan A. pavonina (0.5%w/v)/Glycerol (1.0%v/v)
+144,Methylcellulose (4% w/v)/ethanol (50%)
+145,Galactomannan C. pulcherima (0.5%w/v)/Glycerol (1.0%v/v)
+146,Galactomannan C. pulcherima (0.5%w/v)/Glycerol (2.0%v/v)
+147,Flax fibre bundles
+148,Chitosan (1% w/v)/stearic acid (0.5% w/v)
+149,Methylcellulose (3% w/v)/ethanol (0%)
+150,Methylcellulose (3% w/v)/ethanol (50%)/PEG400 (2.64g)
+151,Cellophane/Metal layer/PLA
+152,Methylcellulose (3% w/v)/ethanol (25%)
+153,Chitosan (1% w/v)/sorbitol (0.5% w/v)
+154,(0vol%)oregano oil/quince seed mucilage
+155,Galactomannan A. pavonina (1.5%w/v)/Glycerol (2.0%v/v)
+156,Chitosan (1% w/v)
+157,Galactomannan A. pavonina (1.5%w/v)/Glycerol (1.5%v/v)
+158,Jute fibre bundles
+159,Methylcellulose (3% w/v)/ethanol (67%)/PEG400 (0.66g)
+160,Non-woven flax fibre film
+161,Methylcellulose (6% w/v)/ethanol (50%)
+162,Hemp fibre bundles
+163,Methylcellulose (3% w/v)/ethanol (75%)/PEG400 (0.66g)
+164,Methylcellulose (3% w/v)/ethanol (50%)/PEG1450 (0.66g)
+165,Xylophane B coated on paper
+166,Chitosan(Aqueous acid solvent
+167,Chitosan(Hydroalcoholic acid solvent)
+168,Methylcellulose (1.5% w/v)/ethanol (50%)
+169,Methylcellulose (5% w/v)/ethanol (50%)
+170,Wheat straw fibre
+171,Galactomannan A. pavonina (1.5%w/v)/Glycerol (1.0%v/v)
+172,Methylcellulose (3% w/v)/ethanol (50%)/PEG400 (0.66g)
+173,Methylcellulose (3% w/v)/ethanol (25%)/PEG400 (0.66g)
+174,Xylophane A coated on paper
+175,Chitosan (1% w/v)/polethylene glycol (0.6% w/v)
+176,Methylcellulose (3% w/v)/ethanol (0%)/PEG400 (0.66g)
+177,Chitosan(Aqueous acid solvent)
+178,Chitosan(Aqueous acid solvent)
+179,Chitosan (3% w/v)/acetic acid (1%v/v)/glycerol(0.25mL/g)
+180,Galactomannan C. pulcherima (0.5%w/v)/Glycerol (1.5%v/v)
+181,Galactomannan C. pulcherima (1.5%w/v)/Glycerol (2.0%v/v)
+182,Methylcellulose (3% w/v)/ethanol (50%)/PEG4000 (0.66g)
+183,Methylcellulose (3% w/v)/ethanol (50%)/PEG8000 (0.66g)
+184,Galactomannan A. pavonina (1.0%w/v)/Glycerol (1.5%v/v)
+185,Methylcellulose (3% w/v)/ethanol (50%)/PEG400 (0.33g)
+186,Chitosan (1% w/v)/palmitic acid (0.5% w/v)
+187,Starch
+188,Methylcellulose (3% w/v)/ethanol (67%)
+189,Wheat straw fibre film
+190,NatureFlex N931
+191,Sisal microfibrillated cellulose films
+192,Galactomannan A. pavonina (1.0%w/v)/Glycerol (1.0%v/v)
+193,Chitosan (3% w/v)/acetic acid (1%v/v)/glycerol(0.50mL/g)
+194,Galactomannan A. pavonina (0.5%w/v)/Glycerol (2.0%v/v)
+195,Sisal fibre bundles
+196,Methylcellulose (3% w/v)/ethanol (50%)
+197,Chitosan(Hydroalcoholic acid solvent
+198,Galactomannan A. pavonina (0.5%w/v)/Glycerol (1.5%v/v)
+199,(1vol%) oregano oil/quince seed mucilage
+200,Starch(4%m/v)/CarboxymethylCellulose(1%m/v)/Glycerol(1.5 %m/v)
+201,biobased polymers
+202,Starch(4.5%m/v)/CarboxymethylCellulose(0.5%m/v)/Glycerol(1.5 %m/v)
+203,Proteins
+204,Soy protein isolate
+205,Soy protein isolate
+206,Soy protein isolate
+207,Soy protein isolate
+208,Soy protein isolate
+209,Soy protein isolate fraction (100<MW<300kDa)
+210,Soy protein isolate fraction (MW<100kDa)
+211,Soy protein isolate fraction (MW>300kDa)
+212,Wheat gluten - unmodified sodium montmorillonite
+213,Wheat gluten - organically modified montmorillonite
+214,wheat gluten (30%wt glycerol)
+215,Wheat gluten (20% glycerol - casting)
+216,Wheat gluten
+217,(3.8 vol%) Eucalyptus cellulose fibers/Rice flour Josapar S.A +3wt%Glycerol
+218,Starch(3%m/v)/Gelatin(2%m/v)/Glycerol(1.5 %m/v)
+219,Starch(4.5%m/v)/Gelatin(0.5%m/v)/Glycerol(1.5 %m/v)
+220,(3.8 vol%) Eucalyptus cellulose fibers/Rice flour Josapar S.A +3wt%sorbitol
+221,Rice flour Josapar S.A +3wt%Glycerol
+222,Starch(3.5%m/v)/CarboxymethylCellulose(1.5%m/v)/Glycerol(1.5 %m/v)
+223,(3.8 vol%) Eucalyptus cellulose fibers/Rice flour Josapar S.A +2wt%sorbitol
+224,(3.8 vol%) Eucalyptus cellulose fibers/Rice flour Josapar S.A +2wt%Glycerol
+225,Composites
+226,Composites
+227,(1wt%)Ag/Polylactic Acid
+228,Maleic Anhydride Grafted Linear Low Density Polyethylene
+229,(20%wt) olive mills/Poly(3-hydroxybutyrate-co-3-hydroxyvalerate)
+230,Nanocomposites
+231,(Polyacrylamide/Sodium Montmorillonite)10- Polyethylene terephthalate
+232,LLDPE/0.54 v/v % Cloisite 20 A
+233,(1wt%) Methyl tallow bis-2-hydroxyethyl quaternary ammonium chloride montmorillonite polyester
+234,(2.75 vol%) Multi-walled carbon nanotube/Polyethersulfone
+235,(Polyacrylamide/Sodium Montmorillonite)20- Polyethylene terephthalate
+236,(1.5 vol%) Multi-walled carbon nanotube/Poly(ether-block-amide) Crosslinked PEBAX 1657
+237,(6wt%)Cloisite 30B/PLA(4060D)
+238,(1.5 vol%) Multi-walled carbon nanotube/Poly(ether-block-amide) PEBAX 1657
+239,(4wt%)Cloisite 30B/PLA(4032D)
+240,LLDPE/1.9 v/v % Cloisite 20 A
+241,(Chitosan/Lambda-Carrageenan/Chitosan/Sodium Montmorillonite)10_Poly(ethylene terephthalate)
+242,(3.9 vol%) Multi-walled carbon nanotube/Poly(ether-block-amide) Crosslinked PEBAX 1657
+243,(5wt%)Cloisite 30B/PLA(4032D)
+244,(5wt%)Cloisite 30B/PLA(4060D)
+245,(5%)Cloisite 20A/Polylactic Acid
+246,(Polyacrylamide/Sodium Montmorillonite)5- Polyethylene terephthalate
+247,starch-cellulose nanocrystals (aw ext 0.536 - aw int 0.762)
+248,(0.914 vol%) Multi-walled carbon nanotube/Polyethersulfone
+249,(1wt%)Modified cellulose nanocrystals/(1wt%)Ag/Polylactic Acid
+250,starch-cellulose nanocrystals (aw ext 0.762 - aw int 1.000)
+251,(6.6 vol%) Single-walled carbon nanotube/Poly(dimethylsiloxane)
+252,(4.3 vol%) Single-walled carbon nanotube/Poly(sulfone)
+253,(2wt%)Cloisite 30B/PLA(4060D)
+254,(13.1 vol%) Single-walled carbon nanotube/Poly(sulfone)
+255,(2.5wt%) Methyl tallow bis-2-hydroxyethyl quaternary ammonium chloride montmorillonite polyester
+256,(0.457 vol%) Multi-walled carbon nanotube/Polyethersulfone
+257,(Polyetylenimine pH8/Montmorillonite)40- Polyethylene terephthalate
+258,(Polyacrylamide/Sodium Montmorillonite)15- Polyethylene terephthalate
+259,(10wt%) Methyl tallow bis-2-hydroxyethyl quaternary ammonium chloride montmorillonite polyester
+260,LLDPE/2.4 v/v % Cloisite 20 A
+261,(4%Nanoter) Polyhydroxybutyrate
+262,(1wt%)Cellulose nanocrystals/(1wt%)Ag/Polylactic Acid
+263,Wheat gluten - unmodified sodium montmorillonite
+264,starch-cellulose nanocrystals (aw ext 0.000 - aw int 1.000)
+265,(4.6wt%) Dimethylbis(hydrogenated-tallow) ammonium montmorillonite (9.0wt%) Maleic anhydride grafted polyethylene (91wt%) Linear Low Density Polyethylene
+266,(3wt%)Cloisite 30B/PLA(4060D)
+267,(Polyetylenimine pH7/Montmorillonite)40- Polyethylene terephthalate
+268,(2wt%)Cloisite 30B/PLA(4032D)
+269,(6wt%)Cloisite 30B/PLA(4032D)
+270,(3wt%)Cloisite 30B/PLA(4032D)
+271,(1.83 vol%) Multi-walled carbon nanotube/Polyethersulfone
+272,starch-cellulose nanocrystals (aw ext 0.329 - aw int 0.762)
+273,(Chitosan/Sodium Montmorillonite/Lambda-Carrageenan)10_Poly(ethylene terephthalate)
+274,(3.9 vol%) Multi-walled carbon nanotube/Poly(ether-block-amide) PEBAX 1657
+275,(8.7 vol%) Single-walled carbon nanotube/Poly(sulfone)
+276,(1wt%)Cloisite 30B/PLA(4060D)
+277,(Polyacrylamide/Sodium Montmorillonite)25- Polyethylene terephthalate
+278,LLDPE/1.5 v/v % Cloisite 20 A
+279,(4%Nanoter) Polyhydroxybutyrate/Polycaprolactones
+280,LLDPE/1 v/v % Cloisite 20 A
+281,(Polyacrylamide/Sodium Montmorillonite)30- Polyethylene terephthalate
+282,Wheat gluten - organically modified montmorillonite
+283,(5wt%)Modified cellulose nanocrystals/(1wt%)Ag/Polylactic Acid
+284,(2.5wt%) Dimethylbis(hydrogenated-tallow) ammonium montmorillonite (5.2wt%) Maleic anhydride grafted polyethylene (94.8wt%) Linear Low Density Polyethylene
+285,Methyl tallow bis-2-hydroxyethyl quaternary ammonium chloride montmorillonite
+286,(Polyetylenimine pH10/Montmorillonite)40- Polyethylene terephthalate
+287,(5wt%) Methyl tallow bis-2-hydroxyethyl quaternary ammonium chloride montmorillonite polyester
+288,(0.8wt%) Dimethylbis(hydrogenated-tallow) ammonium montmorillonite (1.7wt%) Maleic anhydride grafted polyethylene (98.3wt%) Linear Low Density Polyethylene
+289,(5%)Cloisite Na+/Polylactic Acid
+290,(Polyetylenimine pH9/Montmorillonite)40- Polyethylene terephthalate
+291,(6.9%wt) Dimethylbis(hydrogenated-tallow) ammonium montmorillonite (13.1wt%) Maleic anhydride grafted polyethylene (86.9wt%) Linear Low Density Polyethylene
+292,(1%Nanoter) Polyhydroxybutyrate/Polycaprolactones
+293,(4wt%)Cloisite 30B/PLA(4060D)
+294,(1.3 vol%) Single-walled carbon nanotube/Poly(dimethylsiloxane)
+295,(5%)Cloisite 30B/Polylactic Acid
+296,(1wt%)Cloisite 30B/PLA(4032D)
+297,starch-cellulose nanocrystals (aw ext 0.329 - aw int 0.536)
+298,(5wt%)Cellulose nanocrystals/(1wt%)Ag/Polylactic Acid
+299,(30wt%) Silica/Polyimide
+300,(14wt%) Silica/Polyimide
+301,Polyhydroxybutyrate/Polycaprolactones
+302,(40wt%) Silica/Polyimide
+303,Fiber based composites
+304,(1.6 vol%) Cellulose fiber /Polycaprolactone
+305,(10%wt) impact milling wheat straw fibers/Poly(3-hydroxybutyrate-co-3-hydroxyvalerate)
+306,(0.9 vol%) Cellulose fiber /PHBV
+307,(4.2 vol%) Cellulose fiber /Polycaprolactone
+308,(30%wt) ball milling wheat straw fibers/Poly(3-hydroxybutyrate-co-3-hydroxyvalerate)
+309,(1.8 vol%) Cellulose fiber /Poly(lactic acid)
+310,(0.8 vol%) Cellulose fiber /Polycaprolactone
+311,(4.7 vol%) Cellulose fiber /PHBV
+312,(5wt%) Cellulose Fiber/(4wt%) Maleic Anhydride Grafted Polyethylene/ (91wt%) High Density Polyethylene
+313,(2.3 vol%) Cellulose fiber /PHBV
+314,(2wt%) Cellulose Fiber/(2wt%) Maleic Anhydride Grafted Polyethylene/ (96wt%) High Density Polyethylene
+315,(10%wt) ball milling wheat straw fibers/Poly(3-hydroxybutyrate-co-3-hydroxyvalerate)
+316,(10%wt) wheat straw fibers/Poly(3-hydroxybutyrate-co-3-hydroxyvalerate)
+317,(10%wt) cut milling wheat straw fibers/Poly(3-hydroxybutyrate-co-3-hydroxyvalerate)
+318,Vine shoot fibers/PHBV
+319,(2%) Vine shoot fibers/PHBV
+320,(5%) Vine shoot fibers/PHBV
+321,(2.3 vol%) Cellulose fiber /Poly(lactic acid)
+322,(1.8 vol%) Cellulose fiber /PHBV
+323,(20wt%) Cellulose Fiber/(2wt%) Maleic Anhydride Grafted Polyethylene/ (78wt%) High Density Polyethylene
+324,(20%wt) wheat straw fibers/Poly(3-hydroxybutyrate-co-3-hydroxyvalerate)
+325,(30%wt) impact milling wheat straw fibers/Poly(3-hydroxybutyrate-co-3-hydroxyvalerate)
+326,(4.7 vol%) Cellulose fiber /Poly(lactic acid)
+327,(20%wt) impact milling wheat straw fibers/Poly(3-hydroxybutyrate-co-3-hydroxyvalerate)
+328,(30%wt) cut milling wheat straw fibers/Poly(3-hydroxybutyrate-co-3-hydroxyvalerate)
+329,(2.0 vol%) Cellulose fiber /Polycaprolactone
+330,(6%wt) wheat straw fibers/Poly(3-hydroxybutyrate-co-3-hydroxyvalerate)
+331,(0.4 vol%) Cellulose fiber/PHBV
+332,(20%wt) ball milling wheat straw fibers/Poly(3-hydroxybutyrate-co-3-hydroxyvalerate)
+333,(20%wt) cut milling wheat straw fibers/Poly(3-hydroxybutyrate-co-3-hydroxyvalerate)
+334,(0.4 vol%) Cellulose fiber/Poly(lactic acid)
+335,Pine bark Douglas fibers/PHBV
+336,(5%) Pine bark Douglas fibers/PHBV
+337,(2%) Pine bark Douglas fibers/PHBV
+338,(0.4 vol%) Cellulose fiber/Polycaprolactone
+339,(5wt%) Cellulose Fiber/(2wt%) Maleic Anhydride Grafted Polyethylene/ (93wt%) High Density Polyethylene
+340,Wheat straw fibers/PHBV
+341,(2%) Wheat straw fibers/PHBV
+342,(5%) Wheat straw fibers/PHBV
+343,(10wt%) Cellulose Fiber/(2wt%) Maleic Anhydride Grafted Polyethylene/ (88wt%) High Density Polyethylene
+344,(5wt%) Cellulose Fiber/ (95wt%) High Density Polyethylene
+345,(50wt%) Cellulose Fiber/(2wt%) Maleic Anhydride Grafted Polyethylene/ (48wt%) High Density Polyethylene
+346,(30%wt) wheat straw fibers/Poly(3-hydroxybutyrate-co-3-hydroxyvalerate)
+347,(2wt%) Maleic Anhydride Grafted Polyethylene/ (98wt%) High Density Polyethylene
+348,Rubbers
+349,Neoprene Rubber
+350,Polychloroprene
+351,Polyisoprene Rubber
+352,Bromobutyl Rubber
+353,Bromoisobutylene-Isoprene Copolymer
+354,Epichlorohydrin Rubber
+355,Polyepichlorohydrin Copolymer
+356,Polyepichlorohydrin
+357,Chlorosulfonated Polyethylene Rubber
+358,Chlorosulfonated Polyethylene
+359,Isobutylene Rubber
+360,Isobutylene
+361,Ethylene-Propylene Rubber
+362,Ethylene-Propylene Copolymer
+363,Ethylene-Propylene-Diene Copolymer
+364,Chlorobutyl Rubber
+365,Chloroisobutylene-Isoprene Copolymer
+366,Propylene Oxide Rubber
+367,Propylene Oxide
+368,Silicone Rubber
+369,Methyl Vinyl Fluorosilicon
+370,Polysulfide Rubber
+371,Nitrile Rubber
+372,Acrylonitrile-Butadiene Copolymer
+373,Butadiene Rubber
+374,Polybutadiene
+375,Styrene-Butadiene Rubber
+376,Styrene-Butadiene Copolymer
+377,Polyurethane
+378,Polyester Urethane (AU) and Polyether Urethane (EU)
+379,Fluoroelastomer
+380,Vinylidene Fluoride-Hexafluoropropylene Copolymer
+381,Natural Rubber
+382,Acrylic Rubber
+383,Ethylene-Acrylate Copolymer
+384,Butyl Rubber
+385,Isobutylene-Isoprene Copolymer
+386,PackagingToBeClassified
+387,SpecificPackaging
+388,cast and extruded glycerol plasticized oat starch
+389,PMMA/CL120-C50
+390,polypropylene-OMMT composites
+391,pristine poly (n-butyl methacrylate) membrane
+392,Poly(dimethylsiloxane)
+393,SPBMA-5
+394,sonicated poly(n-butyl methacrylate)/clay membranes
+395,2C18 ammonium OMMT composites
+396,3 layer coextruded bottle
+397,unfilled PIM-1 membrane
+398,8 % boron nitride concentration film
+399,Polyamide 6 – montmorillonites films
+400,SSC 2
+401,Dialkyl imidazolium treated montmorillonite
+402,10 % boron nitride concentration film
+403,polypropylene nanocomposites
+404,clay/PLA nanocomposite films
+405,polyethylene films
+406,PEG films
+407,PEG blend films
+408,polyethylene–clay nanocomposites
+409,polyethylene-layered silicate nanocomposites
+410,PE film
+411,PE chitosan coated samples
+412,PE/clay nanocomposite
+413,low density polyethylene films
+414,low density polyethylene films
+415,low density polyethylene films
+416,PET films
+417,PET/OMMT resin
+418,PET/OMMT film
+419,PET/OMMT
+420,PET/OMMT composite
+421,PET/OMMT nanocomposite
+422,polyethylene oxide
+423,PLA-based composite films
+424,CSE plasticized films
+425,PCL-Si/SiOx
+426,TMCS modified MCM-41/PSF MMMs
+427,polyhydroxyalkanoates
+428,Poly(hydroxybu-tyrate)
+429,nylon layer laminated metalocene catalyzed linear low-density polyethylene
+430,poly(n-butyl methacrylate)/clay composites
+431,PMMA/clay nanocomposite membranes
+432,PMMA/clay nanocomposite membranes
+433,SSC 10
+434,PA6/OMMT nanocomposites
+435,amorphous PLA films
+436,monolayer TiO2-pigmented HDPE
+437,ABP-PLA film
+438,nylon-metalocene catalyzed linear low-density polyethylene
+439,PBMA-5
+440,nylon 6-montmorillonite nanocomposite
+441,imidazolium OMMT-PP composites
+442,APTES modified MCM41/PSF mixed matrix systems
+443,corn–zein coated polypropylene films
+444,corn–zein coated polypropylene films
+445,corn–zein coated polypropylene films
+446,PP-C6A
+447,hybrid PBI–silica membranes
+448,poly (n-butyl methacrylate)/clay composites membranes
+449,antioxidant polylactic acid
+450,"BHT, and PEG 400"
+451,imidazolium OMMT composites
+452,SSC 5
+453,polymer–clay nanocomposites
+454,polymer–clay nanocomposites
+455,polymer–clay nanocomposites
+456,ES/TiO2 MMMs
+457,Glycerol-plasticized fractionated soy protein films
+458,SSC 8
+459,PU/clay nanocomposites
+460,Poly(lactic acid)
+461,PHBV films
+462,PHBV/olive mills composites
+463,PHBV-20OM
+464,PHBV-20WSF
+465,PHBV/wheat straw fibres composites
+466,PMMA/CL120-K2
+467,PBI films
+468,PBI–silica nano-composite membrane
+469,PBI–silica hybrid membranes
+470,0 % boron nitride concentration film
+471,2C18 ammonium OMMT-PP composites
+472,polyether-based polyurethane membrane
+473,polyether-based polyurethane–silica membranes
+474,PEO-Si/SiOx
+475,PIM-1
+476,PIM-1/silica nanocomposite membranes
+477,PIM-1/silica nanocomposites
+478,PIM-1/fumed silica mixed-matrix membranes
+479,EMAP using PLA plastic bags
+480,Poly(ether-block-amide) PEBAX 1657
+481,Poly(ether-block-amide) Crosslinked PEBAX 1657
+482,polypropylene/clay composite membranes
+483,PU–silica nanocomposite membranes
+484,Polyamide 6–montmorillonites films
+485,crosslinked polyester–clay nanocomposites
+486,BHT
+487,PLANC8
+488,5 % boron nitride concentration film
+489,2 % boron nitride concentration film
+490,Poly(sulfone)
+491,PP-C15A
+492,PU/CL-UE400S00
+493,PBI–silica nanocomposite membranes
+494,OMMT – polypropylene composites
+495,poly(methyl methacrylate)/clay nanocomposites
+496,polyester–clay nanocomposite
+497,poly (methyl methacrylate)/clay nanocomposites
+498,100 % linear PLA
+499,PLA-nanocellulose composites
+500,PU/CL-UE400S60 5 wt%
+501,1 % boron nitride concentration film
+502,1-decyl-2-methyl-3-octadecyl imidazolium salts
+503,Poly(lactic acid)(PLA)-based high performance nano-biocomposites
+504,Poly(hydroxybu-tyrate) with hydroxyvalerate copolymer
+505,PLA-Si/SiOx
+506,corn–zein coating solution by PEG
+507,SSC 1
+508,soluble soybean polysaccharide based film
+509,NY/mLLDPE films
+510,PLA film
+511,PLA film with α-tocopherol
+512,PLA/organoclay nanocomposite
+513,PLA/1s-CNC
+514,PLA/clay composites
+515,PLA/clay nanocomposites
+516,PLA film with BHT and PEG 400
+517,PLA/5s-CNC/1Ag nano-biocomposite
+518,PLA/nanoclay composite films
+519,PLA/5s-CNC
+520,PLA/Cloisite 20A
+521,PLA/Cloisite Na ^ +
+522,PLA/Cloisite Na ^ +
+523,PLA/OMMT nanocomposites
+524,PLA/Cloisite 30B
+525,PLA/1CNC
+526,PLA/5CNC
+527,PLA/1s-CNC/1Ag
+528,Poly (lactic acid) (PLA)-based high performance nano-biocomposites
+529,PLA/CNC films
+530,PLA/CNC films
+531,PLA/CNC nano-biocomposite films
+532,PLA nanocomposite
+533,PLA nanocomposite
+534,poly (lactic acid) nanocomposites
+535,PLA nano-biocomposites
+536,SSC 0
+537,SSPS films
+538,epoxy/ZrP nanocomposite films
+539,GenericPackaging
+540,Polyvinyl Chloride
+541,Wood packaging
+542,Emballage en bois
+543,Plastic film
+544,Emballage en plastique avec couvercle rigide
+545,Plastic rigid lid
+546,sorbitol plasticized starch films
+547,Emballage en plastique ouvert
+548,Plastic not closed
+549,Plastic basket
+550,Plastic with plastic film
+551,Emballage en plastique avec film
+552,methyl cellulose
+553,methyl cellulose
+554,MC
+555,MC
+556,methylcellulose-based edible films
+557,MCM-41/PSF MMM
+558,MCM-41/PSF MMMs
+559,uncoated paper
+560,fractionated soy protein films
+561,zein coated films
+562,Starch films
+563,Starch films
+564,starch/SiC bionanocomposites
+565,starch–sorbitol films
+566,starch nanocomposite films
+567,starch/CNC
+568,starch/CNC
+569,un-plasticized films
+570,Banana film
+571,Banana film
+572,Edible film
+573,CZ/SPI film
+574,CZ/SPI bilayer film
+575,CZ/SPI bilayer film
+576,Layered silicates
+577,WG paper
+578,WG paper
+579,WG paper
+580,WG paper
+581,WG paper
+582,WG paper
+583,WG paper
+584,WG-10
+585,WG/MMT films
+586,WG-0
+587,wheat gluten coated paper
+588,Biodegradable polymers
+589,imidazolium treated montmorillonite
+590,protein-based nanocomposites
+591,glycerol plasticized starch based film
+592,biaxially oriented film
+593,biaxially oriented PLA
+594,ammonium modified montmorillonite
+595,epoxy nanocomposites
+596,Cellulose
+597,cellulose/BN nanobiocomposites
+598,cellulose based nanobiocomposites
+599,biopolymer cellulose
+600,Cellulose nanobiocomposites
+601,cellulose microfibres
+602,Cellulose/SiC nanobiocomposites
+603,Cellulose nanocrystal
+604,Cellulose/silicon carbide (cellulose/SiC) nanobiocomposites
+605,biobased packaging
+606,polyurethane membranes
+607,polyurethane–silica composite membrane
+608,polyurethane/clay nanocomposite
+609,polyurethane–silica nanocomposite membranes
+610,Biodegradable composite films
+611,carrot puree film
+612,biodegradable biocomposite films of agar/lignin
+613,biodegradable bio-based equilibrium modified atmosphere packaging
+614,Glycerol blend films
+615,films of locust bean gum
+616,Sorbitol films
+617,sorbitol–starch–water films
+618,biodegradable thermoplastic polymers
+619,Greaseproof papers
+620,blended films
+621,biocomposites
+622,based nano-biocomposites
+623,Polyethersulfone
+624,poly-lactic acid
+625,poly-lactic acid
+626,poly-lactic acid
+627,PLA pellets
+628,microperforated PLA films
+629,PLA polymer matrix
+630,PLA 4000 resin
+631,micro-perforated poly-lactic acid
+632,PLA resin 3051D
+633,PLA 4032D nanocomposites
+634,PLA matrix
+635,PLA-coated
+636,Form-Fill-Seal
+637,PP film
+638,PP membrane
+639,thermoplastic polyester
+640,Equilibrium modified atmosphere packaging
+641,Chitosan films
+642,Chitosan films
+643,chitosan–glycerol blend films
+644,chitosan coatings
+645,chitosan coatings
+646,chitosan-coated greaseproof paper
+647,chitosan films influenced by casting solvent and glycerol addition in film formulation
+648,polylactide
+649,ionomer film
+650,gelatin-clay composite films
+651,clear PET bottle
+652,pure starch based film
+653,film forming solutions
+654,films from psyllium-seed gum
+655,Agar/lignin composite film
+656,Agar/lignin composite film
+657,Agar/lignin composite film
+658,fatty acids blend films
+659,glycerol plasticized wheat gluten
+660,Thermoplastic
+661,Polycarbonate
+662,Fibroplastic
+663,Ethylene-Tetrafluoroethylene Copolymer
+664,Polyvinyl Fluoride
+665,Polychlorotrifluoroethylene
+666,Perfluoroalkoxy Resin
+667,Polytetrafluoroethylene
+668,Fluorinated Polyethylene
+669,Fluoroplastic
+670,Polyvinylidene Fluoride
+671,Ethylene-Chlorotrifluoroethylene Copolymer
+672,Fluorinated Ethylene-Propylene Copolymer
+673,Polyamide
+674,Nylon 6
+675,Nylon 6/66
+676,Nylon 66
+677,Nylon 66/610
+678,Nylon
+679,polyamide 6
+680,Amorphous Nylon
+681,Nylon MXD6
+682,Parylene
+683,Polyparaxylylene
+684,Styrenic Resin
+685,Styrene-Acrylonotrile Copolymer
+686,Impact Resistant Polystyrene
+687,Polystyrene
+688,Oriented polystyrene
+689,Acrylonitrile-Styrene-Acrylate Copolymer
+690,General Purpose Polystyrene
+691,Acrylonitrile-Butadiene-Styrene Copolymer
+692,Styrene-Butadiene Block Copolymer
+693,Acrylonitrile
+694,Polyacrylonitrile
+695,Acetal Resin
+696,Polyoxymethylene
+697,Polyoxymethylene
+698,Polyoxymethylene
+699,Polyoxymethylene
+700,Polyolefin
+701,Polymethylpentene
+702,Ethylene-Vinyl Acetate Copolymer
+703,Medium Density Polyethylene
+704,Linear Low Density Polyethylene
+705,Ultra Low Density Ethylene-Octene Copolymer
+706,PropaFilm MTX
+707,PropaFilm OS
+708,PropaFilm OLS
+709,PropaFilm MLT
+710,Polybutylene
+711,Polyethylene-Acrylic Acid Copolymer
+712,PropaFresh RXP
+713,Polyethylene-Ionomer Copolymer
+714,Low Density Polyethylene
+715,Ethylene-Vinyl Alcohol Copolymer
+716,Polypropylene
+717,Polypropylene
+718,Polypropylene
+719,Oriented polypropylene
+720,PropaFilm RGP
+721,High Density Polyethylene
+722,PropaFilm MTP
+723,PropaFilm RGR02
+724,PropaFilm OLP
+725,PropaFilm RGR03
+726,PropaFresh P2G
+727,PropaFilm RGN
+728,PropaFilm RB
+729,PropaFilm OVS
+730,PropaFresh RK
+731,PropaFilm MVU
+732,Ethylene-Alpha Olefin Copolymer
+733,PropaFilm RF
+734,Polypropylene Copolymer
+735,Thermoplastic Elastomers
+736,Olefinic Thermoplastic Elastomer
+737,Polyester Thermoplastic Elastomer
+738,Vinyle Thermoplastic Elastomer
+739,Polyvinyl Chloride Polyol
+740,Polyurethane Thermoplastic Elastomer
+741,Thermoplastic Polyester-Polyurethane Elastomer
+742,Styrenic Thermoplastic Elastomer
+743,Polybutadiene Thermoplastic Elastomer
+744,"Syndiotactic 1,2-Polybutadiene Thermoplastic Elastomer"
+745,Polyamide Thermoplastic Elastomer
+746,Polyester
+747,Polyethylene Naphthalate
+748,poly(butylene succinate)
+749,(1wt%) Methyl tallow bis-2-hydroxyethyl quaternary ammonium chloride montmorillonite polyester
+750,Methyl tallow bis-2-hydroxyethyl quaternary ammonium chloride montmorillonite
+751,(2.5wt%) Methyl tallow bis-2-hydroxyethyl quaternary ammonium chloride montmorillonite polyester
+752,(10wt%) Methyl tallow bis-2-hydroxyethyl quaternary ammonium chloride montmorillonite polyester
+753,(5wt%) Methyl tallow bis-2-hydroxyethyl quaternary ammonium chloride montmorillonite polyester
+754,Polyhydroxyalcanoate
+755,Glycol Modified Polycyclohexylenedimethylene Terephthalate
+756,polyester resin
+757,poly(butylene succinate-co-adipate)
+758,Polyethylene Terephthalate
+759,Polyethylene Terephthalate
+760,Polyethylene Terephthalate
+761,Polycyclohexylenedimethylene Ethylene Terephthalate
+762,Polybutylene Terephtalate
+763,Liquid Crystal Polymer
+764,Polyvinyl Alcohol
+765,Polyimide
+766,Vinyl Resin
+767,Polyvinyl Chloride-Polyvinylidene Chloride Copolymer
+768,Polyvinyl Chloride
+769,Polyvinylidene Chloride
+770,Ionomer
+771,Polysulfone
+772,Cellulosic Plastic
+773,Cellophane Film
+774,Polyphenylene Sulfide
+775,Acrylic Resin
+776,Acrylonitrile-Methyl Acrylate Copolymer
+777,Layer by Layer
+778,(Polyacrylamide/Sodium Montmorillonite)5- Polyethylene terephthalate
+779,(Polyacrylamide/Sodium Montmorillonite)10- Polyethylene terephthalate
+780,(Polyetylenimine pH7/Montmorillonite)40- Polyethylene terephthalate
+781,LLDPE/0.54 v/v % Cloisite 20 A
+782,(Polyacrylamide/Sodium Montmorillonite)20- Polyethylene terephthalate
+783,LLDPE/1.5 v/v % Cloisite 20 A
+784,(Polyetylenimine pH9/Montmorillonite)40- Polyethylene terephthalate
+785,(Chitosan/Sodium Montmorillonite/Lambda-Carrageenan)10_Poly(ethylene terephthalate)
+786,(Polyetylenimine pH10/Montmorillonite)40- Polyethylene terephthalate
+787,(Polyacrylamide/Sodium Montmorillonite)15- Polyethylene terephthalate
+788,LLDPE/1.9 v/v % Cloisite 20 A
+789,LLDPE/2.4 v/v % Cloisite 20 A
+790,(Polyacrylamide/Sodium Montmorillonite)25- Polyethylene terephthalate
+791,LLDPE/1 v/v % Cloisite 20 A
+792,(Polyetylenimine pH8/Montmorillonite)40- Polyethylene terephthalate
+793,(Chitosan/Lambda-Carrageenan)20_Poly(ethylene terephthalate)
+794,(Polyacrylamide/Sodium Montmorillonite)30- Polyethylene terephthalate
+795,(Chitosan/Lambda-Carrageenan/Chitosan/Sodium Montmorillonite)10_Poly(ethylene terephthalate)
+796,Thermosets
+797,Epoxy Resin
+798,Polypyrrole

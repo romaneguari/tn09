@@ -1,0 +1,759 @@
+,Type,PrefLabel,AltLabel
+0,Unit_Division_Or_Multiplication,Atmosphere By Kilogram By Reciprocal Mole,Atm.kg.Mole-1
+1,Concept,Kilogram by reciprocal cubic meter,kg.m-3
+2,Concept,Kilogram by reciprocal cubic meter,kg m-3
+3,Concept,Liter-1,l-1
+4,Concept,Hectopascal,hPa
+5,Concept,Mole by Reciprocal Gram by reciprocal atmosphere,mol.gr-1.atm-1
+6,Unit_Division_Or_Multiplication,Cubic centimeter by centimeter by reciprocal square centimeter by reciprocal second by Reciprocal centimeter mercury,cm3.cm.cm-2.s-1.cmHg-1
+7,Unit_Division_Or_Multiplication,Micromole per Minute,U
+8,Unit_Division_Or_Multiplication,Micromole per Minute,µMole / min
+9,Unit_Multiple_Or_Submultiple,Kilocalorie,kcal
+10,Unit_Division_Or_Multiplication,Gram by reciprocal 100 square inch by reciprocal day,g.100in-2.day-1
+11,Unit_Division_Or_Multiplication,Kilowatt by hour,kW.h
+12,Concept,Mole per square Meter per second per pascal,mol.m-2.s-1.Pa-1
+13,Concept,Mole per square Meter per second per pascal,mol / m2 / s / Pa
+14,Concept,Mole per square Meter per second per pascal,mol m-2 s-1 Pa-1
+15,Concept,Kilogram by meter by reciprocal square second by reciprocal second,N / s
+16,Concept,Kilogram by meter by reciprocal square second by reciprocal second,kg.m.s-2.s-1
+17,Concept,CentiPoise,cP
+18,Unit_Division_Or_Multiplication,Cubic centimeter by reciprocal meter by reciprocal day by reciprocal atmosphere,cm3.m-1.d-1.atm-1
+19,Unit_Exponentiation,Reciprocal square centimeter,cm-2
+20,Concept,9.81 Meter By Reciprocal Square Second,g
+21,Unit_Division_Or_Multiplication,Gram per gram,gr / gr
+22,Unit_Exponentiation,Reciprocal second,s-1
+23,Unit_Exponentiation,Reciprocal second,second-1
+24,Unit_Exponentiation,Reciprocal second,second power one
+25,Unit_Division_Or_Multiplication,Millimole by reciprocal Kilogram by reciprocal hour,mmole / kg / hr
+26,Concept,Kilogram by reciprocal Liter,kg / l
+27,Unit_Multiple_Or_Submultiple,New O2 Permeability Unit,m^3 m / m^2 s Pa
+28,Unit_Multiple_Or_Submultiple,New O2 Permeability Unit,cc / m^2×day
+29,Unit_Multiple_Or_Submultiple,New O2 Permeability Unit,cc m / m^2 day atm
+30,Unit_Multiple_Or_Submultiple,New O2 Permeability Unit,cm^3 m / m^2 day kPa
+31,Unit_Multiple_Or_Submultiple,New O2 Permeability Unit,cm^3 cm / cm^2 s Pa
+32,Unit_Multiple_Or_Submultiple,New O2 Permeability Unit,cm^3 μm / m^2 day mmHg
+33,Unit_Multiple_Or_Submultiple,New O2 Permeability Unit,cm^3 / (m^2 atm day)
+34,Unit_Multiple_Or_Submultiple,New O2 Permeability Unit,cm^3 mm / (m^2 24 h atm)
+35,Unit_Multiple_Or_Submultiple,New O2 Permeability Unit,cm^3 mm / (day m^2 atm)
+36,Unit_Division_Or_Multiplication,Kilowatt by hour per kilogram,kW.h.kg-1
+37,Concept,Cubic centimeter by reciprocal gram,cm3.gr-1
+38,Concept,Milligram by Reciprocal Gram,mg / g
+39,Concept,Square Centimeter By Reciprocal Second,cm2.s-1
+40,Concept,Square Centimeter By Reciprocal Second,cm2 s-1
+41,Unit_Division_Or_Multiplication,Atmosphere By Reciprocal Mole By Mole,Atm.Mole-1.Mole
+42,Unit_Multiple_Or_Submultiple,millimole,mMolar
+43,Unit_Multiple_Or_Submultiple,millimole,mM
+44,Unit_Multiple_Or_Submultiple,millimole,millimolar
+45,Unit_Multiple_Or_Submultiple,millimole,mmol
+46,Concept,Kilogram By Reciprocal Hour,kg.h-1
+47,Unit_Division_Or_Multiplication,Kilogram by reciprocal Kilogram by reciprocal Pascal,kg kg-1 Pa-1
+48,Unit_Multiple_Or_Submultiple,Millipascal,mPa
+49,Concept,Cubic meter by reciprocal gram,m3.gr-1
+50,Concept,Meter,m
+51,Concept,Cubic centimeter by reciprocal cubic centimeter,cm3.cm-3
+52,Unit_Division_Or_Multiplication,Liter By Reciprocal Minute,l.min-1
+53,Singular_Unit,Meter,m
+54,Unit_Multiple_Or_Submultiple,Millimeter of mercury,mmHg
+55,Unit_Multiple_Or_Submultiple,New Permeability Unit,cm^3 (STP) cm / cm^2 s cmHg)
+56,Unit_Multiple_Or_Submultiple,New Permeability Unit,g m^-1 s^-1 Pa
+57,Unit_Multiple_Or_Submultiple,New Permeability Unit,g / m^2 s
+58,Unit_Multiple_Or_Submultiple,New Permeability Unit,g m / m^2 day atm
+59,Unit_Multiple_Or_Submultiple,New Permeability Unit,cm^3 cm / cm^2 s Pa
+60,Unit_Multiple_Or_Submultiple,New Permeability Unit,cm^3 (STP) cm / cm^2 s cm Hg)
+61,Unit_Multiple_Or_Submultiple,New Permeability Unit,cm^3 (STP) cm / cm^2 s cmHg
+62,Unit_Multiple_Or_Submultiple,New Permeability Unit,m^3 m / m^2 s Pa
+63,Unit_Multiple_Or_Submultiple,New Permeability Unit,g m^-1 s^-1 Pa^-1
+64,Unit_Multiple_Or_Submultiple,New Permeability Unit,cm^3 μm / m^2 day mmHg
+65,Unit_Multiple_Or_Submultiple,New Permeability Unit,cm^3 mm / (day m^2 atm)
+66,Unit_Multiple_Or_Submultiple,New Permeability Unit,g / m s Pa
+67,Unit_Multiple_Or_Submultiple,New Permeability Unit,cm^3 / m^2 / 10^5 Pa / day
+68,Unit_Multiple_Or_Submultiple,New Permeability Unit,g m / m^2 Pa s
+69,Unit_Multiple_Or_Submultiple,New Permeability Unit,cm^3 m / m^2 day kPa
+70,Unit_Multiple_Or_Submultiple,New Permeability Unit,g / m^2 / day
+71,Unit_Multiple_Or_Submultiple,New Permeability Unit,g d^-1 Pa^-1 m^-1
+72,Unit_Multiple_Or_Submultiple,New Permeability Unit,g m / m^2 day kPa
+73,Unit_Multiple_Or_Submultiple,New Permeability Unit,g m / m^2 s Pa
+74,Unit_Multiple_Or_Submultiple,New Permeability Unit,mol m^-1 Pa^-1 s^-1
+75,Unit_Multiple_Or_Submultiple,New Permeability Unit,cm^3 / (m^2 atm day)
+76,Unit_Multiple_Or_Submultiple,New Permeability Unit,cm^3 mm / (m^2 atm day)
+77,Unit_Multiple_Or_Submultiple,New Permeability Unit,g m (Pa s m^2)^-1
+78,Unit_Multiple_Or_Submultiple,New Permeability Unit,cm^3 mm / (m^2 24 h atm)
+79,Unit_Multiple_Or_Submultiple,New Permeability Unit,kg m^-2 s^-1
+80,Unit_Multiple_Or_Submultiple,New Permeability Unit,cc / m^2 × day
+81,Unit_Multiple_Or_Submultiple,New Permeability Unit,cm^3 / m s Pa
+82,Unit_Multiple_Or_Submultiple,New Permeability Unit,ng m / m^2 s Pa
+83,Unit_Multiple_Or_Submultiple,New Permeability Unit,g / m day atm
+84,Unit_Multiple_Or_Submultiple,New Permeability Unit,g mm / kPa min m^2
+85,Unit_Multiple_Or_Submultiple,New Permeability Unit,g m^-2 day^-1
+86,Unit_Multiple_Or_Submultiple,New Permeability Unit,mol m^-1 s^-1 Pa^-1
+87,Unit_Multiple_Or_Submultiple,New Permeability Unit,cc m / m^2 day atm
+88,Concept,Milliinch,mil
+89,Concept,KiloDalton,kDa
+90,Concept,Degree,°
+91,Concept,Degree,o
+92,Singular_Unit,Degree,°
+93,Singular_Unit,Degree,o
+94,Concept,Reciprocal Milligram,mg-1
+95,Unit_Division_Or_Multiplication,Kilogram by meter by reciprocal square meter by reciprocal second,kg m m-2 s-1
+96,Concept,Milliliter by millimeter by reciprocal square meter by reciprocal day by reciprocal atmosphere,mL mm m-2 d-1 atm-1
+97,Concept,Micromole per Minute,U
+98,Concept,Micromole per Minute,µMole / min
+99,Unit_Multiple_Or_Submultiple,Hectopascal,hPa
+100,Concept,Gram by reciprocal 100 square inch by reciprocal day,g.100in-2.day-1
+101,Unit_Division_Or_Multiplication,Pascal By Reciprocal Milligram By Reciprocal Kilogram,Pa.mg-1.kg-1
+102,Unit_Division_Or_Multiplication,Gram by reciprocal kilogram,g kg^-1
+103,Concept,Cubic centimeter by reciprocal meter by reciprocal day by reciprocal atmosphere,cm3.m-1.d-1.atm-1
+104,Concept,Millimole by reciprocal Kilogram by reciprocal hour,mmole / kg / hr
+105,Concept,Gram per gram,gr / gr
+106,Concept,Square meter,m2
+107,Unit_Division_Or_Multiplication,Pound per square inch,psi
+108,Concept,Reciprocal Mole,Mole-1
+109,Unit_Multiple_Or_Submultiple,CentiPoise,cP
+110,Concept,Kilowatt by hour per kilogram,kW.h.kg-1
+111,Concept,Atmosphere By Reciprocal Mole By Mole,Atm.Mole-1.Mole
+112,Concept,Reciprocal day,d-1
+113,Concept,Reciprocal day,day power one
+114,Concept,Reciprocal day,day-1
+115,Concept,Kilogram by reciprocal Kilogram by reciprocal Pascal,kg kg-1 Pa-1
+116,Unit_Division_Or_Multiplication,CBU per gram,CBU / gr
+117,Unit_Division_Or_Multiplication,Mole by Reciprocal Kilogram by Reciprocal Pascal,mol kg-1 Pa-1
+118,Singular_Unit,Week,Week
+119,Unit_Division_Or_Multiplication,Kelvin By Reciprocal Minute,K.min-1
+120,Concept,Microgram by reciprocal 100 gram,µg.100g-1
+121,Concept,Microgram by reciprocal 100 gram,µg / 100g
+122,Concept,Liter By Reciprocal Minute,l.min-1
+123,Unit_Division_Or_Multiplication,Gram by milliinch by reciprocal square meter by reciprocal day,gr mil m-2 day-1
+124,Concept,Day,day
+125,Concept,Kilogram by meter by reciprocal square meter by reciprocal second,kg m m-2 s-1
+126,Unit_Division_Or_Multiplication,Square Meter By Reciprocal Gram,m2.g-1
+127,Concept,Reciprocal 100 square inch,100 inch-2
+128,Concept,Reciprocal 100 square inch,100 in-2
+129,Concept,Kilogram,kg
+130,Unit_Multiple_Or_Submultiple,KiloDalton,kDa
+131,Unit_Division_Or_Multiplication,Gram by reciprocal cubic centimeter,g cm-3
+132,Concept,Cubic centimeter,cm3
+133,Concept,Reciprocal square second,s-2
+134,Concept,Reciprocal square second,second-2
+135,Concept,Pascal By Reciprocal Milligram By Reciprocal Kilogram,Pa.mg-1.kg-1
+136,Concept,Gram by reciprocal kilogram,g kg^-1
+137,Concept,Reciprocal hour,h-1
+138,Concept,Reciprocal hour,hour power one
+139,Concept,Cubic centimeter by milliinch by reciprocal square meter by reciprocal day by reciprocal atmosphere,cc mil m-2 day-1 atm-1
+140,Concept,Square centimeter,cm2
+141,Concept,MilliJoule,mJ
+142,Concept,calorie,cal
+143,Concept,Pound per square inch,psi
+144,Unit_Division_Or_Multiplication,Gram per gram,gr.l-1
+145,Unit_Division_Or_Multiplication,Pascal By Reciprocal Second,Pa / s
+146,Unit_Division_Or_Multiplication,nanomole by reciprocal kilogram,nMole.kg-1
+147,Unit_Exponentiation,Liter-1,l-1
+148,Concept,CBU per gram,CBU / gr
+149,Concept,Mole by Reciprocal Kilogram by Reciprocal Pascal,mol kg-1 Pa-1
+150,Unit_Division_Or_Multiplication,Millimeter By Reciprocal Minute,mm / min
+151,Concept,Kelvin By Reciprocal Minute,K.min-1
+152,Concept,Meter of mercury,mHg
+153,Singular_Unit,Meter of mercury,mHg
+154,Unit_Division_Or_Multiplication,Cubic Centimeter by Millimeter by reciprocal square meter by reciprocal day by reciprocal atmosphere,cm3.mm.m-2.day-1.atm-1
+155,Concept,Kilopascal-1,kPa-1
+156,Unit_Division_Or_Multiplication,Filter Paper Unit by Reciprocal Gram,FPU / g
+157,Singular_Unit,pascal,Pa
+158,Unit_Division_Or_Multiplication,Milliliter per square meter per 24 Hours per bar,mL / m2 / 24h / bar
+159,Unit_Division_Or_Multiplication,Milliliter per square meter per 24 Hours per bar,mL / m2 / day / bar
+160,Unit_Division_Or_Multiplication,Milliliter per square meter per 24 Hours per bar,mL / m2 / d / bar
+161,Concept,Square Meter By Reciprocal Gram,m2.g-1
+162,Concept,Gram by reciprocal cubic centimeter,g cm-3
+163,Concept,MegaJoule,MJ
+164,Unit_Division_Or_Multiplication,KiloJoule By Reciprocal Mole,kJ / mole
+165,Concept,Euro,€
+166,Singular_Unit,Euro,€
+167,Unit_Division_Or_Multiplication,Joule by reciprocal gram,Joule.gr-1
+168,Unit_Multiple_Or_Submultiple,Kilogram,kg
+169,Concept,Cubic centimeter by micrometer by reciprocal square meter by reciprocal day by reciprocal atmosphere,cm3.µm.m-2.day-1.atm-1
+170,Concept,Cubic centimeter by micrometer by reciprocal square meter by reciprocal day by reciprocal atmosphere,cm3.µm.m-2.d-1.atm-1
+171,Unit_Multiple_Or_Submultiple,Decimeter,dm
+172,Concept,Microgram by reciprocal gram,µg.gr-1
+173,Unit_Division_Or_Multiplication,Meter by reciprocal second,m.s-1
+174,Concept,One,None
+175,Unit_Division_Or_Multiplication,Gram by reciprocal 100 square inch,g.100in-2
+176,Singular_Unit,One,None
+177,Concept,Cubic Centimeter By Reciprocal Square Meter By Reciprocal Day By Reciprocal Bar,cm3.m-2.day-1.bar-1
+178,Concept,Cubic Centimeter By Reciprocal Square Meter By Reciprocal Day By Reciprocal Bar,cc m-2 24h-1 bar-1
+179,Concept,Cubic Centimeter By Reciprocal Square Meter By Reciprocal Day By Reciprocal Bar,cm3 m-2 day-1 bar-1
+180,Unit_Multiple_Or_Submultiple,MilliJoule,mJ
+181,Concept,Gram per gram,gr.l-1
+182,Unit_Division_Or_Multiplication,Millilitre by reciprocal Kilogram by reciprocal hour,ml / kg / hr
+183,Unit_Division_Or_Multiplication,Millimole by Reciprocal 100 Gram by Reciprocal Atmosphere,mmol.100gr-1.atm-1
+184,Unit_Division_Or_Multiplication,Kilogram By Reciprocal Hour By Reciprocal Square Meter,kg.h-1.m-2
+185,Concept,Pascal By Reciprocal Second,Pa / s
+186,Unit_Division_Or_Multiplication,Watt by hour per kilogram,W.h.kg-1
+187,Singular_Unit,Liter,l
+188,Concept,Millimeter By Reciprocal Minute,mm / min
+189,Concept,Reciprocal Millimeter Mercury,mmHg-1
+190,Unit_Division_Or_Multiplication,Cubic meter by reciprocal kilogram,m3.kg-1
+191,Unit_Exponentiation,Reciprocal Milligram,mg-1
+192,Unit_Division_Or_Multiplication,Kilogram by meter by reciprocal square second,N
+193,Unit_Division_Or_Multiplication,Kilogram by meter by reciprocal square second,kg.m.s-2
+194,Concept,Cubic Centimeter by Millimeter by reciprocal square meter by reciprocal day by reciprocal atmosphere,cm3.mm.m-2.day-1.atm-1
+195,Unit_Division_Or_Multiplication,Gram by reciprocal gram by reciprocal atmosphere,gr.gr-1.atm-1
+196,Concept,Filter Paper Unit by Reciprocal Gram,FPU / g
+197,Concept,Poise,P
+198,Unit_Division_Or_Multiplication,Cubic centimeter by reciprocal gram by reciprocal atmosphere,cm3.gr-1.atm-1
+199,Concept,Milliliter per square meter per 24 Hours per bar,mL / m2 / 24h / bar
+200,Concept,Milliliter per square meter per 24 Hours per bar,mL / m2 / day / bar
+201,Concept,Milliliter per square meter per 24 Hours per bar,mL / m2 / d / bar
+202,Unit_Division_Or_Multiplication,Liter By Reciprocal Hour,l.h-1
+203,Concept,Kilowatt -1,kW-1
+204,Unit_Exponentiation,Square meter,m2
+205,Unit_Division_Or_Multiplication,Kilogram by meter by reciprocal square meter by reciprocal second by reciprocal pascal,kg.m.m-2.s-1.pa-1
+206,Concept,Femtometer,fm
+207,Concept,KiloJoule By Reciprocal Mole,kJ / mole
+208,Concept,Joule by reciprocal gram,Joule.gr-1
+209,Unit_Exponentiation,Reciprocal Mole,Mole-1
+210,Singular_Unit,Pound,lb
+211,Unit_Division_Or_Multiplication,Cubic centimeter by micrometer by reciprocal square centimeter by reciprocal day by reciprocal kilopascal,cm3.µm / cm2 / d / kPa
+212,Unit_Division_Or_Multiplication,Cubic centimeter by micrometer by reciprocal square centimeter by reciprocal day by reciprocal kilopascal,cm3 µm cm-2 d-1 kPa-1
+213,Unit_Division_Or_Multiplication,Cubic centimeter by micrometer by reciprocal square centimeter by reciprocal day by reciprocal kilopascal,cm3.μm.cm-2.day-1.kPa-1
+214,Concept,Meter by reciprocal second,m.s-1
+215,Concept,Centimeter of mercury,cmHg
+216,Unit_Exponentiation,Reciprocal day,d-1
+217,Unit_Exponentiation,Reciprocal day,day power one
+218,Unit_Exponentiation,Reciprocal day,day-1
+219,Unit_Division_Or_Multiplication,Millijoule by reciprocal cubic centimeter,mJ.cm-3
+220,Concept,Reciprocal square meter,meter-2
+221,Concept,Reciprocal square meter,m-2
+222,Unit_Division_Or_Multiplication,Kilogram by meter by reciprocal square second by reciprocal second,N / s
+223,Unit_Division_Or_Multiplication,Kilogram by meter by reciprocal square second by reciprocal second,kg.m.s-2.s-1
+224,Concept,Millilitre by reciprocal Kilogram by reciprocal hour,ml / kg / hr
+225,Concept,Micromole by reciprocal kilogram,µMole.kg-1
+226,Concept,Millimole by Reciprocal 100 Gram by Reciprocal Atmosphere,mmol.100gr-1.atm-1
+227,Concept,Cubic centimeter by reciprocal meter by reciprocal day by reciprocal kiloPascal,cm3.m-1.d-1.kPa-1
+228,Unit_Division_Or_Multiplication,Mole by Reciprocal Cubic Meter by reciprocal second,mol.m-3.s-1
+229,Concept,Kilogram By Reciprocal Hour By Reciprocal Square Meter,kg.h-1.m-2
+230,Concept,hectogram,hg
+231,Concept,Watt by hour per kilogram,W.h.kg-1
+232,Concept,nanomole by reciprocal kilogram by reciprocal second,nMole.kg-1.s-1
+233,Concept,Kilogram by meter by reciprocal square second,N
+234,Concept,Kilogram by meter by reciprocal square second,kg.m.s-2
+235,Unit_Division_Or_Multiplication,Gram by reciprocal meter by reciprocal second by reciprocal pascal,g.m-1.s-1.Pa-1
+236,Concept,Cubic meter by reciprocal kilogram,m3.kg-1
+237,Unit_Division_Or_Multiplication,Milliliter per meter per second per pascal,ml / m / s / Pa
+238,Concept,Reciprocal pascal,Pa-1
+239,Concept,Reciprocal pascal,Pascal-1
+240,Concept,Reciprocal pascal,pascal power one
+241,Concept,Gram by reciprocal gram by reciprocal atmosphere,gr.gr-1.atm-1
+242,Unit_Exponentiation,Reciprocal 100 square inch,100 inch-2
+243,Unit_Exponentiation,Reciprocal 100 square inch,100 in-2
+244,Concept,MegaPascal,MPa
+245,Concept,Milliliter per 100 milliliter,ml / 100ml
+246,Concept,Kelvin,K
+247,Unit_Exponentiation,Cubic centimeter,cm3
+248,Unit_Exponentiation,Reciprocal square second,s-2
+249,Unit_Exponentiation,Reciprocal square second,second-2
+250,Singular_Unit,Nephelometric Turbidity Unit,NTU
+251,Unit_Division_Or_Multiplication,Milliliter per 100 square inch per day,ml / 100in2 / day
+252,Unit_Exponentiation,Reciprocal hour,h-1
+253,Unit_Exponentiation,Reciprocal hour,hour power one
+254,Unit_Division_Or_Multiplication,Cubic centimeter by reciprocal cubic centimeter,cm3.cm-3
+255,Unit_Division_Or_Multiplication,Kilogram per quintal,kg / q
+256,Unit_Division_Or_Multiplication,Micromole by reciprocal gram,µMole.gr-1
+257,Unit_Exponentiation,Square centimeter,cm2
+258,Concept,Liter By Reciprocal Hour,l.h-1
+259,Concept,Kilogram by meter by reciprocal square meter by reciprocal second by reciprocal pascal,kg.m.m-2.s-1.pa-1
+260,Concept,Hectoliter,hl
+261,Unit_Division_Or_Multiplication,Milliliter by millimeter by reciprocal square meter by reciprocal day by reciprocal atmosphere,mL mm m-2 d-1 atm-1
+262,Concept,Microgram,µg
+263,Unit_Multiple_Or_Submultiple,Femtometer,fm
+264,Concept,Cubic centimeter by micrometer by reciprocal square centimeter by reciprocal day by reciprocal kilopascal,cm3.µm / cm2 / d / kPa
+265,Concept,Cubic centimeter by micrometer by reciprocal square centimeter by reciprocal day by reciprocal kilopascal,cm3 µm cm-2 d-1 kPa-1
+266,Concept,Cubic centimeter by micrometer by reciprocal square centimeter by reciprocal day by reciprocal kilopascal,cm3.μm.cm-2.day-1.kPa-1
+267,Concept,Millijoule by reciprocal cubic centimeter,mJ.cm-3
+268,Singular_Unit,Degree fahrenheit,°F
+269,Concept,Mole by Reciprocal Cubic Meter by reciprocal second,mol.m-3.s-1
+270,Unit_Division_Or_Multiplication,Kilogram by reciprocal kilogram,kg kg-1
+271,Unit_Multiple_Or_Submultiple,Centimeter of mercury,cmHg
+272,Concept,Millimeter By Reciprocal Second,mm / sec
+273,Unit_Exponentiation,Kilopascal-1,kPa-1
+274,Singular_Unit,second,s
+275,Singular_Unit,second,sec
+276,Concept,Euro by Reciprocal Ton,Euro / ton
+277,Concept,Milliliter per meter per second per pascal,ml / m / s / Pa
+278,Concept,Gram by reciprocal meter by reciprocal second by reciprocal pascal,g.m-1.s-1.Pa-1
+279,Concept,Milliliter per square meter per 24 Hours,Milliliter per square meter per day
+280,Unit_Division_Or_Multiplication,Cfu per hour,cfu / h
+281,Concept,Gram by reciprocal meter by reciprocal day by reciprocal pascal,g.m-1.d-1.Pa-1
+282,Concept,Gram by reciprocal meter by reciprocal day by reciprocal pascal,g.m-1.day-1.Pa-1
+283,Unit_Multiple_Or_Submultiple,hectogram,hg
+284,Unit_Division_Or_Multiplication,Gram by reciprocal meter by reciprocal day by reciprocal atmosphere,g.m-1.d-1.atm-1
+285,Unit_Multiple_Or_Submultiple,MegaPascal,MPa
+286,Concept,Milliliter per 100 square inch per day,ml / 100in2 / day
+287,Unit_Division_Or_Multiplication,Microgram by reciprocal 100 gram,µg.100g-1
+288,Unit_Division_Or_Multiplication,Microgram by reciprocal 100 gram,µg / 100g
+289,Unit_Division_Or_Multiplication,Milligram by Reciprocal 100 Gram,mg.100g-1
+290,Unit_Division_Or_Multiplication,Milligram by Reciprocal 100 Gram,mg / 100g
+291,Concept,Kilogram per quintal,kg / q
+292,Concept,Micromole by reciprocal gram,µMole.gr-1
+293,Concept,Reciprocal Gram,g-1
+294,Singular_Unit,Filter Paper Unit,FPU
+295,Concept,Yoctometer,ym
+296,Singular_Unit,hour,Hr
+297,Singular_Unit,hour,h
+298,Concept,Reciprocal Bar,Bar-1
+299,Unit_Exponentiation,Reciprocal Millimeter Mercury,mmHg-1
+300,Concept,KiloWatt,kW
+301,Unit_Multiple_Or_Submultiple,Hectoliter,hl
+302,Unit_Multiple_Or_Submultiple,Microgram,µg
+303,Unit_Division_Or_Multiplication,Cubic centimeter by milliinch by reciprocal square meter by reciprocal day by reciprocal atmosphere,cc mil m-2 day-1 atm-1
+304,Concept,Kilogram by reciprocal kilogram,kg kg-1
+305,Concept,Kiloliter-1,kl-1
+306,Concept,Cfu per hour,cfu / h
+307,Unit_Exponentiation,Kilowatt -1,kW-1
+308,Concept,Hectoliter-1,hl-1
+309,Unit_Division_Or_Multiplication,Kilojoule By Reciprocal 100 Gram,kJ / 100g
+310,Unit_Division_Or_Multiplication,Kilojoule By Reciprocal 100 Gram,kJ.100g-1
+311,Concept,Reciprocal atmosphere,atm-1
+312,Concept,Reciprocal atmosphere,Atmosphere-1
+313,Concept,Reciprocal atmosphere,Atmosphere power one
+314,Concept,Reciprocal 100 Gram,100 gr-1
+315,Singular_Unit,Atmosphere,atm
+316,Unit_Division_Or_Multiplication,Attomole per meter per second per pascal,amol / m / s / Pa
+317,Unit_Division_Or_Multiplication,Attomole per meter per second per pascal,amol.m-1.s-1.Pa-1
+318,Concept,Week,Week
+319,Unit_Division_Or_Multiplication,Gram by millimeter by reciprocal day by reciprocal square meter by reciprocal millimeter Mercury,g.mm.day-1.m-2.mmHg-1
+320,Concept,Gram by reciprocal meter by reciprocal day by reciprocal atmosphere,g.m-1.d-1.atm-1
+321,Concept,Milligram by Reciprocal 100 Gram,mg.100g-1
+322,Concept,Milligram by Reciprocal 100 Gram,mg / 100g
+323,Concept,Kilopascal,kPa
+324,Unit_Division_Or_Multiplication,Cubic centimeter by reciprocal cubic centimeter by reciprocal centimeter Mercury,cm3.cm-3.cm-1 Hg
+325,Unit_Exponentiation,Reciprocal square meter,meter-2
+326,Unit_Exponentiation,Reciprocal square meter,m-2
+327,Concept,Milliliter,ml
+328,Unit_Multiple_Or_Submultiple,Milliinch,mil
+329,Unit_Division_Or_Multiplication,Gram per kilogram,g / kg
+330,Concept,Dalton,Da
+331,Unit_Division_Or_Multiplication,Kilocalorie By Reciprocal 100 Gram,kcal.100g-1
+332,Unit_Division_Or_Multiplication,Kilocalorie By Reciprocal 100 Gram,kcal / 100g
+333,Concept,Degree celsius,°C
+334,Concept,Degree celsius,oC
+335,Singular_Unit,Dalton,Da
+336,Singular_Unit,Degree celsius,°C
+337,Singular_Unit,Degree celsius,oC
+338,Concept,Milligram,mg
+339,Unit_Division_Or_Multiplication,Cubic centimeter by micrometer by reciprocal square meter by reciprocal day by reciprocal atmosphere,cm3.µm.m-2.day-1.atm-1
+340,Unit_Division_Or_Multiplication,Cubic centimeter by micrometer by reciprocal square meter by reciprocal day by reciprocal atmosphere,cm3.µm.m-2.d-1.atm-1
+341,Unit_Exponentiation,Reciprocal pascal,Pa-1
+342,Unit_Exponentiation,Reciprocal pascal,Pascal-1
+343,Unit_Exponentiation,Reciprocal pascal,pascal power one
+344,Unit_Multiple_Or_Submultiple,Yoctometer,ym
+345,Unit_Division_Or_Multiplication,Microgram by reciprocal gram,µg.gr-1
+346,Unit_Multiple_Or_Submultiple,KiloWatt,kW
+347,Unit_Division_Or_Multiplication,Cubic Centimeter By Reciprocal Square Meter By Reciprocal Day By Reciprocal Bar,cm3.m-2.day-1.bar-1
+348,Unit_Division_Or_Multiplication,Cubic Centimeter By Reciprocal Square Meter By Reciprocal Day By Reciprocal Bar,cc m-2 24h-1 bar-1
+349,Unit_Division_Or_Multiplication,Cubic Centimeter By Reciprocal Square Meter By Reciprocal Day By Reciprocal Bar,cm3 m-2 day-1 bar-1
+350,Unit_Division_Or_Multiplication,Gram by reciprocal meter by reciprocal hour by reciprocal pascal,g.m-1.hr-1.Pa-1
+351,Unit_Division_Or_Multiplication,Gram by reciprocal meter by reciprocal hour by reciprocal pascal,g.m-1.h-1.Pa-1
+352,Unit_Division_Or_Multiplication,Gram by reciprocal meter by reciprocal hour by reciprocal pascal,g.h-1.m-1.Pa-1
+353,Unit_Division_Or_Multiplication,Kilogram by reciprocal Hectoliter,kg / hl
+354,Concept,Millimeter,mm
+355,Concept,minute,min
+356,Singular_Unit,Joule,J
+357,Singular_Unit,minute,min
+358,Concept,Kilojoule By Reciprocal 100 Gram,kJ / 100g
+359,Concept,Kilojoule By Reciprocal 100 Gram,kJ.100g-1
+360,Unit_Division_Or_Multiplication,Gram by reciprocal meter by reciprocal day by reciprocal kilopascal,g.m-1.d-1.kPa-1
+361,Concept,Attomole per meter per second per pascal,amol / m / s / Pa
+362,Concept,Attomole per meter per second per pascal,amol.m-1.s-1.Pa-1
+363,Concept,Gram by millimeter by reciprocal day by reciprocal square meter by reciprocal millimeter Mercury,g.mm.day-1.m-2.mmHg-1
+364,Concept,Reciprocal Centimeter Mercury,cm Hg-1
+365,Concept,Cubic centimeter by reciprocal cubic centimeter by reciprocal centimeter Mercury,cm3.cm-3.cm-1 Hg
+366,Concept,pascal,Pa
+367,Singular_Unit,Percent,%
+368,Singular_Unit,Percent,wt %
+369,Singular_Unit,Percent,Percentage
+370,Unit_Multiple_Or_Submultiple,Kilopascal,kPa
+371,Concept,New CO2 Permeability Unit,cm^3 mm / (m^2 atm day)
+372,Concept,New CO2 Permeability Unit,g m (Pa s m^2)^-1
+373,Concept,Degree Celsius By Reciprocal Minute,°C.min-1
+374,Unit_Division_Or_Multiplication,Milligram by Reciprocal Kilogram,mg / kg
+375,Unit_Division_Or_Multiplication,Kilogram By Reciprocal KiloWatt,kg.kW-1.h-1
+376,Concept,Gram per kilogram,g / kg
+377,Concept,Kilocalorie By Reciprocal 100 Gram,kcal.100g-1
+378,Concept,Kilocalorie By Reciprocal 100 Gram,kcal / 100g
+379,Unit_Division_Or_Multiplication,Atmosphere By Kilogram,Atm.kg
+380,Unit_Division_Or_Multiplication,Cubic Centimeter By Reciprocal Square Meter By Reciprocal Day By Reciprocal Pascal,cm3.m-2.day-1.Pa-1
+381,Unit_Division_Or_Multiplication,Cubic Centimeter By Reciprocal Square Meter By Reciprocal Day By Reciprocal Pascal,cc m-2 24h-1 Pa-1
+382,Unit_Division_Or_Multiplication,Cubic Centimeter By Reciprocal Square Meter By Reciprocal Day By Reciprocal Pascal,cm3 m-2 day-1 Pa-1
+383,Unit_Multiple_Or_Submultiple,Milliliter,ml
+384,Concept,nanomole,nanoMolar
+385,Concept,nanomole,nM
+386,Concept,nanomole,nanomol
+387,Concept,Femtoliter,fl
+388,Concept,Zeptometer,zm
+389,Unit_Division_Or_Multiplication,Cubic centimeter by reciprocal meter by reciprocal second by reciprocal pascal,cm3 / m / s / Pa
+390,Unit_Division_Or_Multiplication,Cubic centimeter by reciprocal meter by reciprocal second by reciprocal pascal,cm3.m-1.s-1.Pa-1
+391,Unit_Division_Or_Multiplication,Cubic centimeter by reciprocal meter by reciprocal second by reciprocal pascal,cm3 / (m.s.Pa)
+392,Concept,Square inch,inches^2
+393,Concept,Square inch,inch 2
+394,Concept,Square inch,sq inches
+395,Concept,Square inch,sq in
+396,Concept,Square inch,inch / -2
+397,Concept,Square inch,inches / -2
+398,Concept,Square inch,inch²
+399,Concept,Square inch,in^2
+400,Concept,Square inch,in / -2
+401,Concept,Square inch,inches²
+402,Concept,Square inch,sq inch
+403,Concept,Square inch,square in
+404,Concept,Square inch,inch^2
+405,Concept,Square inch,in²
+406,Unit_Multiple_Or_Submultiple,Milligram,mg
+407,Concept,Gram by reciprocal meter by reciprocal hour by reciprocal pascal,g.m-1.hr-1.Pa-1
+408,Concept,Gram by reciprocal meter by reciprocal hour by reciprocal pascal,g.m-1.h-1.Pa-1
+409,Concept,Gram by reciprocal meter by reciprocal hour by reciprocal pascal,g.h-1.m-1.Pa-1
+410,Concept,Kilogram by reciprocal Hectoliter,kg / hl
+411,Unit_Division_Or_Multiplication,Micromole by reciprocal kilogram,µMole.kg-1
+412,Unit_Division_Or_Multiplication,Cubic centimeter by reciprocal meter by reciprocal day by reciprocal kiloPascal,cm3.m-1.d-1.kPa-1
+413,Concept,Centimeter,cm
+414,Unit_Division_Or_Multiplication,Cubic meter by meter by reciprocal square meter by reciprocal second by reciprocal pascal,m3.m.m-2.s-1.Pa-1
+415,Unit_Division_Or_Multiplication,Cubic meter by meter by reciprocal square meter by reciprocal second by reciprocal pascal,m3.m / (m2.s.Pa)
+416,Concept,Reciprocal minute,min-1
+417,Unit_Exponentiation,Reciprocal Gram,g-1
+418,Concept,Gram by reciprocal meter by reciprocal day by reciprocal kilopascal,g.m-1.d-1.kPa-1
+419,Concept,GigaPascal,GPa
+420,Concept,Liter,l
+421,Unit_Division_Or_Multiplication,1E-10 By Square Meter By Reciprocal Second,1e-10.m2.s-1
+422,Unit_Division_Or_Multiplication,nanomole by reciprocal kilogram by reciprocal second,nMole.kg-1.s-1
+423,Unit_Multiple_Or_Submultiple,Millimeter,mm
+424,Unit_Division_Or_Multiplication,Millimole by Reciprocal Kilogram by Reciprocal Atmosphere,mmol.kg-1.atm-1
+425,Singular_Unit,Inch,in
+426,Concept,Reciprocal cubic meter,m-3
+427,Unit_Division_Or_Multiplication,Milliliter per 100 milliliter,ml / 100ml
+428,Singular_Unit,Cellobiase activity Unit,CBU
+429,Unit_Exponentiation,Reciprocal Bar,Bar-1
+430,Concept,Millibar,millibars
+431,Concept,Millibar,mbar
+432,Concept,Kilogram By Reciprocal KiloWatt,kg.kW-1.h-1
+433,Concept,Milligram by Reciprocal Kilogram,mg / kg
+434,Unit_Exponentiation,Kiloliter-1,kl-1
+435,Unit_Multiple_Or_Submultiple,New CO2 Permeability Unit,cm^3 mm / (m^2 atm day)
+436,Unit_Multiple_Or_Submultiple,New CO2 Permeability Unit,g m (Pa s m^2)^-1
+437,Concept,Atmosphere By Kilogram,Atm.kg
+438,Concept,Cubic Centimeter By Reciprocal Square Meter By Reciprocal Day By Reciprocal Pascal,cm3.m-2.day-1.Pa-1
+439,Concept,Cubic Centimeter By Reciprocal Square Meter By Reciprocal Day By Reciprocal Pascal,cc m-2 24h-1 Pa-1
+440,Concept,Cubic Centimeter By Reciprocal Square Meter By Reciprocal Day By Reciprocal Pascal,cm3 m-2 day-1 Pa-1
+441,Concept,Pound,lb
+442,Unit_Multiple_Or_Submultiple,MegaJoule,MJ
+443,Unit_Exponentiation,Hectoliter-1,hl-1
+444,Unit_Division_Or_Multiplication,Gram by reciprocal square meter by reciprocal day,g.m-2.day-1
+445,Concept,Cubic centimeter by reciprocal meter by reciprocal second by reciprocal pascal,cm3 / m / s / Pa
+446,Concept,Cubic centimeter by reciprocal meter by reciprocal second by reciprocal pascal,cm3.m-1.s-1.Pa-1
+447,Concept,Cubic centimeter by reciprocal meter by reciprocal second by reciprocal pascal,cm3 / (m.s.Pa)
+448,Unit_Exponentiation,Reciprocal atmosphere,atm-1
+449,Unit_Exponentiation,Reciprocal atmosphere,Atmosphere-1
+450,Unit_Exponentiation,Reciprocal atmosphere,Atmosphere power one
+451,Unit_Exponentiation,Reciprocal 100 Gram,100 gr-1
+452,Unit_Division_Or_Multiplication,MegaJoule per Kilogram,MJ / kg
+453,Unit_Division_Or_Multiplication,Cubic centimeter per meter,cm3 / m
+454,Unit_Multiple_Or_Submultiple,nanomole,nanoMolar
+455,Unit_Multiple_Or_Submultiple,nanomole,nM
+456,Unit_Multiple_Or_Submultiple,nanomole,nanomol
+457,Unit_Multiple_Or_Submultiple,Femtoliter,fl
+458,Unit_Multiple_Or_Submultiple,Zeptometer,zm
+459,Unit_Division_Or_Multiplication,Cubic centimeter by reciprocal kilogram,cm3.kg-1
+460,Concept,Cubic meter by meter by reciprocal square meter by reciprocal second by reciprocal pascal,m3.m.m-2.s-1.Pa-1
+461,Concept,Cubic meter by meter by reciprocal square meter by reciprocal second by reciprocal pascal,m3.m / (m2.s.Pa)
+462,Unit_Division_Or_Multiplication,Millimeter By Reciprocal Second,mm / sec
+463,Unit_Division_Or_Multiplication,Kilogram by meter,kg m
+464,Concept,1E-10 By Square Meter By Reciprocal Second,1e-10.m2.s-1
+465,Unit_Division_Or_Multiplication,Mole by micrometer by reciprocal square centimeter by reciprocal second by reciprocal atmosphere,mol µm cm-2 s-1 atm-1
+466,Unit_Division_Or_Multiplication,Mole by micrometer by reciprocal square centimeter by reciprocal second by reciprocal atmosphere,mol.µm.cm-2.s-1.atm-1
+467,Unit_Division_Or_Multiplication,Euro by Reciprocal Ton,Euro / ton
+468,Unit_Multiple_Or_Submultiple,Centimeter,cm
+469,Unit_Division_Or_Multiplication,Cubic centimeter by micrometer by reciprocal square meter by reciprocal day by reciprocal kilopascal,cm3.µm.m-2.day-1.kPa-1
+470,Unit_Division_Or_Multiplication,Cubic centimeter by micrometer by reciprocal square meter by reciprocal day by reciprocal kilopascal,cm3 µm m-2 d-1 kPa-1
+471,Concept,Millimole by Reciprocal Kilogram by Reciprocal Atmosphere,mmol.kg-1.atm-1
+472,Unit_Division_Or_Multiplication,Milliliter per square meter per 24 Hours,Milliliter per square meter per day
+473,Unit_Division_Or_Multiplication,Gram by reciprocal meter by reciprocal day by reciprocal pascal,g.m-1.d-1.Pa-1
+474,Unit_Division_Or_Multiplication,Gram by reciprocal meter by reciprocal day by reciprocal pascal,g.m-1.day-1.Pa-1
+475,Unit_Multiple_Or_Submultiple,GigaPascal,GPa
+476,Concept,micromole,µM
+477,Concept,micromole,micromolar
+478,Concept,micromole,microMolar
+479,Concept,micromole,µmol
+480,Concept,Nephelometric Turbidity Unit,NTU
+481,Concept,attomole,aMolar
+482,Concept,attomole,attomolar
+483,Concept,attomole,amol
+484,Concept,1E-10 By Cubic Centimeter By Centimeter Per Square Centimeter Per Second Per Centimeter Mercury,barrer
+485,Concept,1E-10 By Cubic Centimeter By Centimeter Per Square Centimeter Per Second Per Centimeter Mercury,1e-10.cm3.cm / cm2 / s / cmHg
+486,Unit_Division_Or_Multiplication,Nanokatal by reciprocal gram,nkat.gr-1
+487,Unit_Multiple_Or_Submultiple,Millibar,millibars
+488,Unit_Multiple_Or_Submultiple,Millibar,mbar
+489,Singular_Unit,Gram,g
+490,Unit_Division_Or_Multiplication,Milligram by Reciprocal Kilogram by Reciprocal Atmosphere,mg.kg-1.atm-1
+491,Unit_Division_Or_Multiplication,Millipascal By Reciprocal Second,mPa / s
+492,Concept,Gram by reciprocal square meter by reciprocal day,g.m-2.day-1
+493,Concept,Degree fahrenheit,°F
+494,Concept,MegaJoule per Kilogram,MJ / kg
+495,Concept,Cubic centimeter per meter,cm3 / m
+496,Unit_Exponentiation,Reciprocal Centimeter Mercury,cm Hg-1
+497,Concept,Millimole by Reciprocal 100 Gram,mmol.100gr-1
+498,Concept,Cubic centimeter by reciprocal kilogram,cm3.kg-1
+499,Unit_Division_Or_Multiplication,Liter By Reciprocal Kilogram By Reciprocal Atmosphere,l.kg-1.atm-1
+500,Concept,second,s
+501,Concept,second,sec
+502,Concept,Kilogram by meter,kg m
+503,Unit_Division_Or_Multiplication,Millilitre by reciprocal Kilogram by reciprocal atmosphere,ml.kg-1.atm-1
+504,Concept,Mole by micrometer by reciprocal square centimeter by reciprocal second by reciprocal atmosphere,mol µm cm-2 s-1 atm-1
+505,Concept,Mole by micrometer by reciprocal square centimeter by reciprocal second by reciprocal atmosphere,mol.µm.cm-2.s-1.atm-1
+506,Concept,Reciprocal Kilogram,kg-1
+507,Concept,Cubic centimeter by micrometer by reciprocal square meter by reciprocal day by reciprocal kilopascal,cm3.µm.m-2.day-1.kPa-1
+508,Concept,Cubic centimeter by micrometer by reciprocal square meter by reciprocal day by reciprocal kilopascal,cm3 µm m-2 d-1 kPa-1
+509,Concept,katal,kat
+510,Unit_Division_Or_Multiplication,Millimole by reciprocal Kilogram,mmol.kg-1
+511,Singular_Unit,katal,kat
+512,Concept,KiloJoule,kJ
+513,Concept,Reciprocal Ton,t-1
+514,Unit_Multiple_Or_Submultiple,micromole,µM
+515,Unit_Multiple_Or_Submultiple,micromole,micromolar
+516,Unit_Multiple_Or_Submultiple,micromole,microMolar
+517,Unit_Multiple_Or_Submultiple,micromole,µmol
+518,Concept,Nanokatal by reciprocal gram,nkat.gr-1
+519,Unit_Division_Or_Multiplication,Cubic centimeter by centimeter by reciprocal square centimeter by reciprocal second by reciprocal pascal,cm3.cm.cm-2.s-1.Pa-1
+520,Unit_Multiple_Or_Submultiple,attomole,aMolar
+521,Unit_Multiple_Or_Submultiple,attomole,attomolar
+522,Unit_Multiple_Or_Submultiple,attomole,amol
+523,Unit_Exponentiation,Square inch,inches^2
+524,Unit_Exponentiation,Square inch,inch 2
+525,Unit_Exponentiation,Square inch,sq inches
+526,Unit_Exponentiation,Square inch,sq in
+527,Unit_Exponentiation,Square inch,inch / -2
+528,Unit_Exponentiation,Square inch,inches / -2
+529,Unit_Exponentiation,Square inch,inch²
+530,Unit_Exponentiation,Square inch,in^2
+531,Unit_Exponentiation,Square inch,in / -2
+532,Unit_Exponentiation,Square inch,inches²
+533,Unit_Exponentiation,Square inch,sq inch
+534,Unit_Exponentiation,Square inch,square in
+535,Unit_Exponentiation,Square inch,inch^2
+536,Unit_Exponentiation,Square inch,in²
+537,Unit_Division_Or_Multiplication,Mole per Meter per second per pascal,mol.m.m-2.s-1.Pa-1
+538,Unit_Division_Or_Multiplication,Mole per Meter per second per pascal,mol.m-1.s-1.Pa-1
+539,Unit_Division_Or_Multiplication,Mole per Meter per second per pascal,mol / m / s / Pa
+540,Unit_Division_Or_Multiplication,Mole per Meter per second per pascal,mol m m-2 s-1 Pa-1
+541,Concept,Square second,s2
+542,Concept,Milligram by Reciprocal Kilogram by Reciprocal Atmosphere,mg.kg-1.atm-1
+543,Unit_Division_Or_Multiplication,Square Meter By Reciprocal Second,m2 s-1
+544,Unit_Division_Or_Multiplication,Square Meter By Reciprocal Second,m2.s-1
+545,Concept,Millipascal By Reciprocal Second,mPa / s
+546,Concept,Filter Paper Unit,FPU
+547,Concept,Pascal By Second,Pa.s
+548,Unit_Exponentiation,Reciprocal minute,min-1
+549,Concept,hour,Hr
+550,Concept,hour,h
+551,Unit_Division_Or_Multiplication,Micromole by reciprocal kilogram by reciprocal second,µMole.kg-1.s-1
+552,Unit_Exponentiation,Reciprocal cubic meter,m-3
+553,Unit_Division_Or_Multiplication,CFU per gram,CFU / gr
+554,Concept,Liter By Reciprocal Kilogram By Reciprocal Atmosphere,l.kg-1.atm-1
+555,Concept,Millilitre by reciprocal Kilogram by reciprocal atmosphere,ml.kg-1.atm-1
+556,Concept,Millimole by reciprocal Kilogram,mmol.kg-1
+557,Unit_Division_Or_Multiplication,Watt by hour,W.h
+558,Unit_Division_Or_Multiplication,Liter By Reciprocal Hour By Reciprocal Square Meter,l.h-1.m-2
+559,Unit_Division_Or_Multiplication,Millilitre by reciprocal square meter by reciprocal day by reciprocal atmosphere,mL.m-2.d-1.atm-1
+560,Concept,Atmosphere,atm
+561,Concept,Atmosphere By Kilogram By Reciprocal Mole,Atm.kg.Mole-1
+562,Unit_Division_Or_Multiplication,Cubic centimeter by reciprocal cubic centimeter by reciprocal atmosphere,cm3.cm-3.atm-1
+563,Unit_Division_Or_Multiplication,Kilogram by meter by reciprocal square meter,kg m m-2
+564,Concept,Nanometer,nm
+565,Unit_Multiple_Or_Submultiple,KiloJoule,kJ
+566,Concept,Cubic centimeter by centimeter by reciprocal square centimeter by reciprocal second by reciprocal pascal,cm3.cm.cm-2.s-1.Pa-1
+567,Concept,Cubic centimeter by centimeter by reciprocal square centimeter by reciprocal second by Reciprocal centimeter mercury,cm3.cm.cm-2.s-1.cmHg-1
+568,Concept,Mole per Meter per second per pascal,mol.m.m-2.s-1.Pa-1
+569,Concept,Mole per Meter per second per pascal,mol.m-1.s-1.Pa-1
+570,Concept,Mole per Meter per second per pascal,mol / m / s / Pa
+571,Concept,Mole per Meter per second per pascal,mol m m-2 s-1 Pa-1
+572,Concept,Square Meter By Reciprocal Second,m2 s-1
+573,Concept,Square Meter By Reciprocal Second,m2.s-1
+574,Unit_Division_Or_Multiplication,Degree Celsius By Reciprocal Minute,°C.min-1
+575,Unit_Division_Or_Multiplication,Microgram by reciprocal kilogram,µg / kg
+576,Unit_Division_Or_Multiplication,Pascal By Reciprocal Milligram,Pa / mg
+577,Concept,Kilowatt by hour,kW.h
+578,Concept,Reciprocal cubic centimeter,cm-3
+579,Unit_Division_Or_Multiplication,Mole per square Meter per second,mol / m2 / s
+580,Unit_Division_Or_Multiplication,Mole per square Meter per second,mol m-2 s-1
+581,Unit_Division_Or_Multiplication,Mole per square Meter per second,mol.m-2.s-1
+582,Concept,Reciprocal meter,meter power one
+583,Concept,Reciprocal meter,meter-1
+584,Concept,Reciprocal meter,m-1
+585,Concept,Micromole by reciprocal kilogram by reciprocal second,µMole.kg-1.s-1
+586,Concept,CFU per gram,CFU / gr
+587,Concept,Unit under creation,Unit under creation
+588,Singular_Unit,Unit under creation,Unit under creation
+589,Concept,Joule,J
+590,Concept,Micrometer,μm
+591,Concept,Watt by hour,W.h
+592,Concept,Liter By Reciprocal Hour By Reciprocal Square Meter,l.h-1.m-2
+593,Concept,Millilitre by reciprocal square meter by reciprocal day by reciprocal atmosphere,mL.m-2.d-1.atm-1
+594,Concept,Cubic centimeter by reciprocal cubic centimeter by reciprocal atmosphere,cm3.cm-3.atm-1
+595,Concept,Kilogram by meter by reciprocal square meter,kg m m-2
+596,Concept,Percent,%
+597,Concept,Percent,wt %
+598,Concept,Percent,Percentage
+599,Singular_Unit,Day,day
+600,Unit_Division_Or_Multiplication,Mole per Liter,mol.L-1
+601,Unit_Multiple_Or_Submultiple,Nanometer,nm
+602,Concept,Cubic Meter,m3
+603,Unit_Division_Or_Multiplication,Atmosphere By Reciprocal Mole,Atm.Mole-1
+604,Concept,Decimeter,dm
+605,Unit_Division_Or_Multiplication,Cubic centimeter per 100 square inch per day,cc 100in-2 day-1
+606,Unit_Division_Or_Multiplication,Cubic centimeter per 100 square inch per day,cm3.100in-2.day-1
+607,Concept,Microgram by reciprocal kilogram,µg / kg
+608,Concept,Pascal By Reciprocal Milligram,Pa / mg
+609,Concept,Mole per square Meter per second,mol / m2 / s
+610,Concept,Mole per square Meter per second,mol m-2 s-1
+611,Concept,Mole per square Meter per second,mol.m-2.s-1
+612,Unit_Division_Or_Multiplication,Cubic Centimeter By Reciprocal Square Meter By Reciprocal Day By Reciprocal Atmosphere,cm3 m-2 day-1 atm-1
+613,Unit_Division_Or_Multiplication,Cubic Centimeter By Reciprocal Square Meter By Reciprocal Day By Reciprocal Atmosphere,cm3.m-2.day-1.atm-1
+614,Unit_Division_Or_Multiplication,Cubic Centimeter By Reciprocal Square Meter By Reciprocal Day By Reciprocal Atmosphere,cc m-2 24h-1 atm-1
+615,Unit_Exponentiation,Reciprocal Kilogram,kg-1
+616,Singular_Unit,calorie,cal
+617,Unit_Division_Or_Multiplication,Femtoliter By Meter By Reciprocal Square Meter By Reciprocal Second By Reciprocal Pascal,fl.m.m-2.s-1.Pa-1
+618,Unit_Exponentiation,Reciprocal Ton,t-1
+619,Concept,Picometer,pm
+620,Concept,Reciprocal square centimeter,cm-2
+621,Unit_Multiple_Or_Submultiple,Micrometer,μm
+622,Concept,Reciprocal second,s-1
+623,Concept,Reciprocal second,second-1
+624,Concept,Reciprocal second,second power one
+625,Unit_Exponentiation,Square second,s2
+626,Concept,Inch,in
+627,Concept,Gram by milliinch by reciprocal square meter by reciprocal day,gr mil m-2 day-1
+628,Concept,Cellobiase activity Unit,CBU
+629,Unit_Division_Or_Multiplication,Cubic centimeter by 25 micrometer by reciprocal square meter by reciprocal day by reciprocal atmosphere,cm3.25 μm / (m2.day.atm)
+630,Unit_Division_Or_Multiplication,Cubic centimeter by 25 micrometer by reciprocal square meter by reciprocal day by reciprocal atmosphere,cm3 25 μm m-2 day-1 atm-1
+631,Concept,Mole per Liter,mol.L-1
+632,Concept,Atmosphere By Reciprocal Mole,Atm.Mole-1
+633,Concept,Cubic centimeter per 100 square inch per day,cc 100in-2 day-1
+634,Concept,Cubic centimeter per 100 square inch per day,cm3.100in-2.day-1
+635,Unit_Division_Or_Multiplication,1E-10 By Cubic Centimeter By Centimeter Per Square Centimeter Per Second Per Centimeter Mercury,barrer
+636,Unit_Division_Or_Multiplication,1E-10 By Cubic Centimeter By Centimeter Per Square Centimeter Per Second Per Centimeter Mercury,1e-10.cm3.cm / cm2 / s / cmHg
+637,Concept,Cubic Centimeter By Reciprocal Square Meter By Reciprocal Day By Reciprocal Atmosphere,cm3 m-2 day-1 atm-1
+638,Concept,Cubic Centimeter By Reciprocal Square Meter By Reciprocal Day By Reciprocal Atmosphere,cm3.m-2.day-1.atm-1
+639,Concept,Cubic Centimeter By Reciprocal Square Meter By Reciprocal Day By Reciprocal Atmosphere,cc m-2 24h-1 atm-1
+640,Concept,New H2O Permeability Unit,g m / m^2 day kPa
+641,Concept,New H2O Permeability Unit,g / m^2 s
+642,Concept,New H2O Permeability Unit,g m / m^2 s Pa
+643,Concept,New H2O Permeability Unit,g m^-2 day^-1
+644,Concept,New H2O Permeability Unit,g m^-1 s^-1 Pa^-1
+645,Concept,New H2O Permeability Unit,g / m^2 / day
+646,Concept,New H2O Permeability Unit,g m^-1 s^-1 Pa
+647,Concept,Unité Formant Colonie,CFU
+648,Concept,Unité Formant Colonie,UFC
+649,Singular_Unit,Unité Formant Colonie,CFU
+650,Singular_Unit,Unité Formant Colonie,UFC
+651,Concept,Nanokatal,nkat
+652,Concept,Femtoliter By Meter By Reciprocal Square Meter By Reciprocal Second By Reciprocal Pascal,fl.m.m-2.s-1.Pa-1
+653,Concept,nanomole by reciprocal kilogram,nMole.kg-1
+654,Unit_Division_Or_Multiplication,Millimole by Reciprocal 100 Gram,mmol.100gr-1
+655,Unit_Division_Or_Multiplication,Gram per hectogram,g / 100g
+656,Unit_Division_Or_Multiplication,Gram per hectogram,Gram per hundred gram
+657,Unit_Division_Or_Multiplication,Gram by millimeter by reciprocal day by reciprocal square meter by reciprocal atmosphere,g.mm.m-2.day-1.atm-1
+658,Unit_Division_Or_Multiplication,Gram by millimeter by reciprocal day by reciprocal square meter by reciprocal atmosphere,g.mm.day-1.m-2.atm-1
+659,Unit_Multiple_Or_Submultiple,Picometer,pm
+660,Singular_Unit,Poise,P
+661,Unit_Exponentiation,Reciprocal cubic centimeter,cm-3
+662,Unit_Division_Or_Multiplication,Cubic Centimeter By Reciprocal Square Meter By Reciprocal Day,cm3 m-2 day-1
+663,Unit_Division_Or_Multiplication,Cubic Centimeter By Reciprocal Square Meter By Reciprocal Day,cm3.m-2.day-1
+664,Unit_Division_Or_Multiplication,Cubic Centimeter By Reciprocal Square Meter By Reciprocal Day,cc m-2 24h-1
+665,Concept,Cubic centimeter by 25 micrometer by reciprocal square meter by reciprocal day by reciprocal atmosphere,cm3.25 μm / (m2.day.atm)
+666,Concept,Cubic centimeter by 25 micrometer by reciprocal square meter by reciprocal day by reciprocal atmosphere,cm3 25 μm m-2 day-1 atm-1
+667,Unit_Division_Or_Multiplication,Kilogram by reciprocal cubic meter,kg.m-3
+668,Unit_Division_Or_Multiplication,Kilogram by reciprocal cubic meter,kg m-3
+669,Unit_Exponentiation,Reciprocal meter,meter power one
+670,Unit_Exponentiation,Reciprocal meter,meter-1
+671,Unit_Exponentiation,Reciprocal meter,m-1
+672,Concept,Kilocalorie,kcal
+673,Concept,Gram,g
+674,Unit_Division_Or_Multiplication,Mole by Reciprocal Gram by reciprocal atmosphere,mol.gr-1.atm-1
+675,Concept,Gram by reciprocal 100 square inch,g.100in-2
+676,Unit_Division_Or_Multiplication,Pascal By Second,Pa.s
+677,Unit_Division_Or_Multiplication,Mole per square Meter per second per pascal,mol.m-2.s-1.Pa-1
+678,Unit_Division_Or_Multiplication,Mole per square Meter per second per pascal,mol / m2 / s / Pa
+679,Unit_Division_Or_Multiplication,Mole per square Meter per second per pascal,mol m-2 s-1 Pa-1
+680,Unit_Multiple_Or_Submultiple,New H2O Permeability Unit,g m / m^2 day kPa
+681,Unit_Multiple_Or_Submultiple,New H2O Permeability Unit,g / m^2 s
+682,Unit_Multiple_Or_Submultiple,New H2O Permeability Unit,g m / m^2 s Pa
+683,Unit_Multiple_Or_Submultiple,New H2O Permeability Unit,g m^-2 day^-1
+684,Unit_Multiple_Or_Submultiple,New H2O Permeability Unit,g m^-1 s^-1 Pa^-1
+685,Unit_Multiple_Or_Submultiple,New H2O Permeability Unit,g / m^2 / day
+686,Unit_Multiple_Or_Submultiple,New H2O Permeability Unit,g m^-1 s^-1 Pa
+687,Concept,New O2 Permeability Unit,m^3 m / m^2 s Pa
+688,Concept,New O2 Permeability Unit,cc / m^2×day
+689,Concept,New O2 Permeability Unit,cc m / m^2 day atm
+690,Concept,New O2 Permeability Unit,cm^3 m / m^2 day kPa
+691,Concept,New O2 Permeability Unit,cm^3 cm / cm^2 s Pa
+692,Concept,New O2 Permeability Unit,cm^3 μm / m^2 day mmHg
+693,Concept,New O2 Permeability Unit,cm^3 / (m^2 atm day)
+694,Concept,New O2 Permeability Unit,cm^3 mm / (m^2 24 h atm)
+695,Concept,New O2 Permeability Unit,cm^3 mm / (day m^2 atm)
+696,Unit_Division_Or_Multiplication,9.81 Meter By Reciprocal Square Second,g
+697,Concept,Mole,Molar
+698,Concept,Mole,Mol
+699,Singular_Unit,Mole,Molar
+700,Singular_Unit,Mole,Mol
+701,Unit_Multiple_Or_Submultiple,Nanokatal,nkat
+702,Concept,millimole,mMolar
+703,Concept,millimole,mM
+704,Concept,millimole,millimolar
+705,Concept,millimole,mmol
+706,Unit_Division_Or_Multiplication,Kilogram by reciprocal Liter,kg / l
+707,Concept,Millipascal,mPa
+708,Concept,Gram per hectogram,g / 100g
+709,Concept,Gram per hectogram,Gram per hundred gram
+710,Unit_Division_Or_Multiplication,Cubic centimeter by reciprocal gram,cm3.gr-1
+711,Unit_Division_Or_Multiplication,Milligram by Reciprocal Gram,mg / g
+712,Concept,Gram by millimeter by reciprocal day by reciprocal square meter by reciprocal atmosphere,g.mm.m-2.day-1.atm-1
+713,Concept,Gram by millimeter by reciprocal day by reciprocal square meter by reciprocal atmosphere,g.mm.day-1.m-2.atm-1
+714,Unit_Exponentiation,Cubic Meter,m3
+715,Unit_Division_Or_Multiplication,Square Centimeter By Reciprocal Second,cm2.s-1
+716,Unit_Division_Or_Multiplication,Square Centimeter By Reciprocal Second,cm2 s-1
+717,Unit_Division_Or_Multiplication,Kilogram By Reciprocal Hour,kg.h-1
+718,Singular_Unit,Kelvin,K
+719,Concept,Cubic centimeter by reciprocal gram by reciprocal atmosphere,cm3.gr-1.atm-1
+720,Concept,Millimeter of mercury,mmHg
+721,Concept,New Permeability Unit,cm^3 (STP) cm / cm^2 s cmHg)
+722,Concept,New Permeability Unit,g m^-1 s^-1 Pa
+723,Concept,New Permeability Unit,g / m^2 s
+724,Concept,New Permeability Unit,g m / m^2 day atm
+725,Concept,New Permeability Unit,cm^3 cm / cm^2 s Pa
+726,Concept,New Permeability Unit,cm^3 (STP) cm / cm^2 s cm Hg)
+727,Concept,New Permeability Unit,cm^3 (STP) cm / cm^2 s cmHg
+728,Concept,New Permeability Unit,m^3 m / m^2 s Pa
+729,Concept,New Permeability Unit,g m^-1 s^-1 Pa^-1
+730,Concept,New Permeability Unit,cm^3 μm / m^2 day mmHg
+731,Concept,New Permeability Unit,cm^3 mm / (day m^2 atm)
+732,Concept,New Permeability Unit,g / m s Pa
+733,Concept,New Permeability Unit,cm^3 / m^2 / 10^5 Pa / day
+734,Concept,New Permeability Unit,g m / m^2 Pa s
+735,Concept,New Permeability Unit,cm^3 m / m^2 day kPa
+736,Concept,New Permeability Unit,g / m^2 / day
+737,Concept,New Permeability Unit,g d^-1 Pa^-1 m^-1
+738,Concept,New Permeability Unit,g m / m^2 day kPa
+739,Concept,New Permeability Unit,g m / m^2 s Pa
+740,Concept,New Permeability Unit,mol m^-1 Pa^-1 s^-1
+741,Concept,New Permeability Unit,cm^3 / (m^2 atm day)
+742,Concept,New Permeability Unit,cm^3 mm / (m^2 atm day)
+743,Concept,New Permeability Unit,g m (Pa s m^2)^-1
+744,Concept,New Permeability Unit,cm^3 mm / (m^2 24 h atm)
+745,Concept,New Permeability Unit,kg m^-2 s^-1
+746,Concept,New Permeability Unit,cc / m^2 × day
+747,Concept,New Permeability Unit,cm^3 / m s Pa
+748,Concept,New Permeability Unit,ng m / m^2 s Pa
+749,Concept,New Permeability Unit,g / m day atm
+750,Concept,New Permeability Unit,g mm / kPa min m^2
+751,Concept,New Permeability Unit,g m^-2 day^-1
+752,Concept,New Permeability Unit,mol m^-1 s^-1 Pa^-1
+753,Concept,New Permeability Unit,cc m / m^2 day atm
+754,Unit_Division_Or_Multiplication,Cubic meter by reciprocal gram,m3.gr-1
+755,Concept,Cubic Centimeter By Reciprocal Square Meter By Reciprocal Day,cm3 m-2 day-1
+756,Concept,Cubic Centimeter By Reciprocal Square Meter By Reciprocal Day,cm3.m-2.day-1
+757,Concept,Cubic Centimeter By Reciprocal Square Meter By Reciprocal Day,cc m-2 24h-1

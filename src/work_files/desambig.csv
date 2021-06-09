@@ -1,0 +1,768 @@
+,Concept,Unit
+0,h2o_permeability,gram by reciprocal meter by reciprocal hour by reciprocal pascal
+1,h2o_permeability,gram by reciprocal meter by reciprocal day by reciprocal kilopascal
+2,h2o_permeability,mole per square meter per second per pascal
+3,h2o_permeability,gram by reciprocal meter by reciprocal second by reciprocal pascal
+4,h2o_permeability,cubic centimeter by reciprocal meter by reciprocal day by reciprocal atmosphere
+5,h2o_permeability,gram by reciprocal 100 square inch by reciprocal day
+6,h2o_permeability,femtoliter by meter by reciprocal square meter by reciprocal second by reciprocal pascal
+7,h2o_permeability,new permeability unit
+8,h2o_permeability,kilogram by meter by reciprocal square meter by reciprocal second by reciprocal pascal
+9,h2o_permeability,cubic centimeter by millimeter by reciprocal square meter by reciprocal day by reciprocal atmosphere
+10,h2o_permeability,new h2o permeability unit
+11,h2o_permeability,cubic centimeter by reciprocal square meter by reciprocal day by reciprocal bar
+12,h2o_permeability,gram by reciprocal meter by reciprocal day by reciprocal pascal
+13,h2o_permeability,gram by millimeter by reciprocal day by reciprocal square meter by reciprocal atmosphere
+14,h2o_permeability,cubic centimeter by reciprocal square meter by reciprocal day
+15,h2o_permeability,cubic centimeter per 100 square inch per day
+16,h2o_permeability,gram by reciprocal meter by reciprocal day by reciprocal atmosphere
+17,h2o_permeability,cubic centimeter by centimeter by reciprocal square centimeter by reciprocal second by reciprocal centimeter mercury
+18,h2o_permeability,uri 1e-10 by cubic centimeter by centimeter per square centimeter per second per centimeter mercury
+19,h2o_permeability,cubic meter by meter by reciprocal square meter by reciprocal second by reciprocal pascal
+20,h2o_permeability,gram by millimeter by reciprocal day by reciprocal square meter by reciprocal millimeter mercury
+21,h2o_permeability,cubic centimeter by reciprocal square meter by reciprocal day by reciprocal pascal
+22,h2o_permeability,gram by milliinch by reciprocal square meter by reciprocal day
+23,h2o_permeability,gram by reciprocal square meter by reciprocal day
+24,h2o_permeability,mole by micrometer by reciprocal square centimeter by reciprocal second by reciprocal atmosphere
+25,h2o_permeability,milliliter per meter per second per pascal
+26,h2o_permeability,milliliter per square meter per 24hours per bar
+27,h2o_permeability,cubic centimeter by reciprocal meter by reciprocal day by reciprocal kilopascal
+28,h2o_permeability,milliliter per 100 square inch per day
+29,h2o_permeability,cubic centimeter by milliinch by reciprocal square meter by reciprocal day by reciprocal atmosphere
+30,h2o_permeability,cubic centimeter by centimeter by reciprocal square centimeter by reciprocal second by reciprocal pascal
+31,h2o_permeability,cubic centimeter by micrometer by reciprocal square centimeter by reciprocal day by reciprocal kilopascal
+32,h2o_permeability,cubic centimeter by micrometer by reciprocal square meter by reciprocal day by reciprocal kilopascal
+33,h2o_permeability,cubic centimeter by reciprocal meter by reciprocal second by reciprocal pascal
+34,h2o_permeability,cubic centimeter by reciprocal square meter by reciprocal day by reciprocal atmosphere
+35,h2o_permeability,milliliter by reciprocal square meter by reciprocal day by reciprocal atmosphere
+36,h2o_permeability,cubic centimeter by micrometer by reciprocal square meter by reciprocal day by reciprocal atmosphere
+37,h2o_permeability,attomole per meter per second per pascal
+38,h2o_permeability,mole per meter per second per pascal
+39,h2o_permeability,mol / m / s / Pa
+40,h2o_permeability,mol.m.m-2.s-1.Pa-1
+41,h2o_permeability,cm3 µm cm-2 d-1 kPa-1
+42,h2o_permeability,cm^3 mm / (m^2 24 h atm)
+43,h2o_permeability,cm3.m-1.s-1.Pa-1
+44,h2o_permeability,cm3.m-2.day-1
+45,h2o_permeability,cm3.100in-2.day-1
+46,h2o_permeability,ml / m / s / Pa
+47,h2o_permeability,cm3.m-1.d-1.kPa-1
+48,h2o_permeability,amol.m-1.s-1.Pa-1
+49,h2o_permeability,cm3 m-2 day-1 atm-1
+50,h2o_permeability,cm^3 m / m^2 day kPa
+51,h2o_permeability,cm3.µm.m-2.d-1.atm-1
+52,h2o_permeability,m3.m.m-2.s-1.Pa-1
+53,h2o_permeability,mol m^-1 s^-1 Pa^-1
+54,h2o_permeability,mol.m-1.s-1.Pa-1
+55,h2o_permeability,fl.m.m-2.s-1.Pa-1
+56,h2o_permeability,cm3.cm.cm-2.s-1.Pa-1
+57,h2o_permeability,g / m s Pa
+58,h2o_permeability,cm3 / (m.s.Pa)
+59,h2o_permeability,g m^-1 s^-1 Pa^-1
+60,h2o_permeability,cm^3 / m^2 / 10^5 Pa / day
+61,h2o_permeability,cm3.µm.m-2.day-1.atm-1
+62,h2o_permeability,cm3.m-2.day-1.Pa-1
+63,h2o_permeability,cm^3 cm / cm^2 s Pa
+64,h2o_permeability,g.mm.day-1.m-2.atm-1
+65,h2o_permeability,cm3 m-2 day-1 bar-1
+66,h2o_permeability,m^3 m / m^2 s Pa
+67,h2o_permeability,mol m^-1 Pa^-1 s^-1
+68,h2o_permeability,m3.m / (m2.s.Pa)
+69,h2o_permeability,cm3.µm / cm2 / d / kPa
+70,h2o_permeability,cm^3 (STP) cm / cm^2 s cmHg)
+71,h2o_permeability,mol µm cm-2 s-1 atm-1
+72,h2o_permeability,cc / m^2 × day
+73,h2o_permeability,cm3 / m / s / Pa
+74,h2o_permeability,g m / m^2 s Pa
+75,h2o_permeability,mol.µm.cm-2.s-1.atm-1
+76,h2o_permeability,g m / m^2 Pa s
+77,h2o_permeability,cm3.mm.m-2.day-1.atm-1
+78,h2o_permeability,ml / 100in2 / day
+79,h2o_permeability,amol / m / s / Pa
+80,h2o_permeability,g.100in-2.day-1
+81,h2o_permeability,cm3.µm.m-2.day-1.kPa-1
+82,h2o_permeability,mol.m-2.s-1.Pa-1
+83,h2o_permeability,g.m-1.day-1.Pa-1
+84,h2o_permeability,g m^-1 s^-1 Pa
+85,h2o_permeability,g m (Pa s m^2)^-1
+86,h2o_permeability,g m / m^2 day kPa
+87,h2o_permeability,cc m-2 24h-1 Pa-1
+88,h2o_permeability,g.m-1.d-1.Pa-1
+89,h2o_permeability,g d^-1 Pa^-1 m^-1
+90,h2o_permeability,cm^3 / (m^2 atm day)
+91,h2o_permeability,cc m-2 24h-1
+92,h2o_permeability,cm3 m-2 day-1 Pa-1
+93,h2o_permeability,cm3.m-2.day-1.bar-1
+94,h2o_permeability,g / m^2 s
+95,h2o_permeability,kg m^-2 s^-1
+96,h2o_permeability,g.m-1.h-1.Pa-1
+97,h2o_permeability,mol m-2 s-1 Pa-1
+98,h2o_permeability,g.m-1.d-1.kPa-1
+99,h2o_permeability,g / m^2 / day
+100,h2o_permeability,cc mil m-2 day-1 atm-1
+101,h2o_permeability,kg.m.m-2.s-1.pa-1
+102,h2o_permeability,cm3.m-1.d-1.atm-1
+103,h2o_permeability,cc m-2 24h-1 bar-1
+104,h2o_permeability,g.m-1.d-1.atm-1
+105,h2o_permeability,g.m-2.day-1
+106,h2o_permeability,cm^3 (STP) cm / cm^2 s cm Hg)
+107,h2o_permeability,g.mm.day-1.m-2.mmHg-1
+108,h2o_permeability,g.h-1.m-1.Pa-1
+109,h2o_permeability,cm3.cm.cm-2.s-1.cmHg-1
+110,h2o_permeability,g m^-2 day^-1
+111,h2o_permeability,cm^3 μm / m^2 day mmHg
+112,h2o_permeability,cm^3 (STP) cm / cm^2 s cmHg
+113,h2o_permeability,cm^3 / m s Pa
+114,h2o_permeability,cm^3 mm / (day m^2 atm)
+115,h2o_permeability,cc m / m^2 day atm
+116,h2o_permeability,g.mm.m-2.day-1.atm-1
+117,h2o_permeability,mol / m2 / s / Pa
+118,h2o_permeability,cm3.m-2.day-1.atm-1
+119,h2o_permeability,ng m / m^2 s Pa
+120,h2o_permeability,cm^3 mm / (m^2 atm day)
+121,h2o_permeability,g.m-1.s-1.Pa-1
+122,h2o_permeability,gr mil m-2 day-1
+123,h2o_permeability,mol m m-2 s-1 Pa-1
+124,h2o_permeability,cm3.μm.cm-2.day-1.kPa-1
+125,h2o_permeability,g.m-1.hr-1.Pa-1
+126,h2o_permeability,cc 100in-2 day-1
+127,h2o_permeability,g m / m^2 day atm
+128,h2o_permeability,g mm / kPa min m^2
+129,h2o_permeability,g / m day atm
+130,h2o_permeability,cm3 m-2 day-1
+131,h2o_permeability,cm3 µm m-2 d-1 kPa-1
+132,h2o_permeability,cc m-2 24h-1 atm-1
+133,stress_at_break_number_of_repetitions,one
+134,stress_at_break_number_of_repetitions,None
+135,thickness,centimeter
+136,thickness,nanometer
+137,thickness,yoctometer
+138,thickness,decimeter
+139,thickness,zeptometer
+140,thickness,millimeter
+141,thickness,micrometer
+142,thickness,milliinch
+143,thickness,femtometer
+144,thickness,meter
+145,thickness,picometer
+146,thickness,mm
+147,thickness,fm
+148,thickness,dm
+149,thickness,m
+150,thickness,ym
+151,thickness,nm
+152,thickness,pm
+153,thickness,cm
+154,thickness,mil
+155,thickness,zm
+156,thickness,μm
+157,salt_qty,one
+158,salt_qty,percent
+159,salt_qty,gram per hectogram
+160,salt_qty,None
+161,salt_qty,wt %
+162,salt_qty,g / 100g
+163,salt_qty,Percentage
+164,salt_qty,%
+165,salt_qty,Gram per hundred gram
+166,offset_temperature_number_of_repetitions,one
+167,offset_temperature_number_of_repetitions,None
+168,initial_grip_distance,centimeter
+169,initial_grip_distance,nanometer
+170,initial_grip_distance,decimeter
+171,initial_grip_distance,millimeter
+172,initial_grip_distance,micrometer
+173,initial_grip_distance,milliinch
+174,initial_grip_distance,meter
+175,initial_grip_distance,inch
+176,initial_grip_distance,mm
+177,initial_grip_distance,dm
+178,initial_grip_distance,m
+179,initial_grip_distance,nm
+180,initial_grip_distance,cm
+181,initial_grip_distance,mil
+182,initial_grip_distance,in
+183,initial_grip_distance,μm
+184,o2_permeability,gram by reciprocal meter by reciprocal hour by reciprocal pascal
+185,o2_permeability,gram by reciprocal meter by reciprocal day by reciprocal kilopascal
+186,o2_permeability,mole per square meter per second per pascal
+187,o2_permeability,gram by reciprocal meter by reciprocal second by reciprocal pascal
+188,o2_permeability,cubic centimeter by reciprocal meter by reciprocal day by reciprocal atmosphere
+189,o2_permeability,gram by reciprocal 100 square inch by reciprocal day
+190,o2_permeability,femtoliter by meter by reciprocal square meter by reciprocal second by reciprocal pascal
+191,o2_permeability,new permeability unit
+192,o2_permeability,kilogram by meter by reciprocal square meter by reciprocal second by reciprocal pascal
+193,o2_permeability,cubic centimeter by millimeter by reciprocal square meter by reciprocal day by reciprocal atmosphere
+194,o2_permeability,cubic centimeter by reciprocal square meter by reciprocal day by reciprocal bar
+195,o2_permeability,gram by reciprocal meter by reciprocal day by reciprocal pascal
+196,o2_permeability,gram by millimeter by reciprocal day by reciprocal square meter by reciprocal atmosphere
+197,o2_permeability,cubic centimeter by reciprocal square meter by reciprocal day
+198,o2_permeability,cubic centimeter per 100 square inch per day
+199,o2_permeability,gram by reciprocal meter by reciprocal day by reciprocal atmosphere
+200,o2_permeability,cubic centimeter by centimeter by reciprocal square centimeter by reciprocal second by reciprocal centimeter mercury
+201,o2_permeability,uri 1e-10 by cubic centimeter by centimeter per square centimeter per second per centimeter mercury
+202,o2_permeability,cubic meter by meter by reciprocal square meter by reciprocal second by reciprocal pascal
+203,o2_permeability,gram by millimeter by reciprocal day by reciprocal square meter by reciprocal millimeter mercury
+204,o2_permeability,cubic centimeter by reciprocal square meter by reciprocal day by reciprocal pascal
+205,o2_permeability,gram by milliinch by reciprocal square meter by reciprocal day
+206,o2_permeability,gram by reciprocal square meter by reciprocal day
+207,o2_permeability,mole by micrometer by reciprocal square centimeter by reciprocal second by reciprocal atmosphere
+208,o2_permeability,milliliter per meter per second per pascal
+209,o2_permeability,milliliter per square meter per 24hours per bar
+210,o2_permeability,cubic centimeter by reciprocal meter by reciprocal day by reciprocal kilopascal
+211,o2_permeability,milliliter per 100 square inch per day
+212,o2_permeability,cubic centimeter by milliinch by reciprocal square meter by reciprocal day by reciprocal atmosphere
+213,o2_permeability,cubic centimeter by centimeter by reciprocal square centimeter by reciprocal second by reciprocal pascal
+214,o2_permeability,cubic centimeter by micrometer by reciprocal square centimeter by reciprocal day by reciprocal kilopascal
+215,o2_permeability,cubic centimeter by micrometer by reciprocal square meter by reciprocal day by reciprocal kilopascal
+216,o2_permeability,cubic centimeter by reciprocal meter by reciprocal second by reciprocal pascal
+217,o2_permeability,cubic centimeter by reciprocal square meter by reciprocal day by reciprocal atmosphere
+218,o2_permeability,milliliter by reciprocal square meter by reciprocal day by reciprocal atmosphere
+219,o2_permeability,cubic centimeter by micrometer by reciprocal square meter by reciprocal day by reciprocal atmosphere
+220,o2_permeability,attomole per meter per second per pascal
+221,o2_permeability,mole per meter per second per pascal
+222,o2_permeability,mol / m / s / Pa
+223,o2_permeability,mol.m.m-2.s-1.Pa-1
+224,o2_permeability,cm3 µm cm-2 d-1 kPa-1
+225,o2_permeability,cm^3 mm / (m^2 24 h atm)
+226,o2_permeability,cm3.m-1.s-1.Pa-1
+227,o2_permeability,cm3.m-2.day-1
+228,o2_permeability,cm3.100in-2.day-1
+229,o2_permeability,ml / m / s / Pa
+230,o2_permeability,cm3.m-1.d-1.kPa-1
+231,o2_permeability,amol.m-1.s-1.Pa-1
+232,o2_permeability,cm3 m-2 day-1 atm-1
+233,o2_permeability,cm^3 m / m^2 day kPa
+234,o2_permeability,cm3.µm.m-2.d-1.atm-1
+235,o2_permeability,m3.m.m-2.s-1.Pa-1
+236,o2_permeability,mol m^-1 s^-1 Pa^-1
+237,o2_permeability,mol.m-1.s-1.Pa-1
+238,o2_permeability,fl.m.m-2.s-1.Pa-1
+239,o2_permeability,cm3.cm.cm-2.s-1.Pa-1
+240,o2_permeability,g / m s Pa
+241,o2_permeability,cm3 / (m.s.Pa)
+242,o2_permeability,g m^-1 s^-1 Pa^-1
+243,o2_permeability,cm^3 / m^2 / 10^5 Pa / day
+244,o2_permeability,cm3.µm.m-2.day-1.atm-1
+245,o2_permeability,cm3.m-2.day-1.Pa-1
+246,o2_permeability,cm^3 cm / cm^2 s Pa
+247,o2_permeability,g.mm.day-1.m-2.atm-1
+248,o2_permeability,cm3 m-2 day-1 bar-1
+249,o2_permeability,m^3 m / m^2 s Pa
+250,o2_permeability,mol m^-1 Pa^-1 s^-1
+251,o2_permeability,m3.m / (m2.s.Pa)
+252,o2_permeability,cm3.µm / cm2 / d / kPa
+253,o2_permeability,cm^3 (STP) cm / cm^2 s cmHg)
+254,o2_permeability,mol µm cm-2 s-1 atm-1
+255,o2_permeability,cc / m^2 × day
+256,o2_permeability,cm3 / m / s / Pa
+257,o2_permeability,g m / m^2 s Pa
+258,o2_permeability,mol.µm.cm-2.s-1.atm-1
+259,o2_permeability,g m / m^2 Pa s
+260,o2_permeability,cm3.mm.m-2.day-1.atm-1
+261,o2_permeability,ml / 100in2 / day
+262,o2_permeability,amol / m / s / Pa
+263,o2_permeability,g.100in-2.day-1
+264,o2_permeability,cm3.µm.m-2.day-1.kPa-1
+265,o2_permeability,mol.m-2.s-1.Pa-1
+266,o2_permeability,g.m-1.day-1.Pa-1
+267,o2_permeability,g m^-1 s^-1 Pa
+268,o2_permeability,g m (Pa s m^2)^-1
+269,o2_permeability,g m / m^2 day kPa
+270,o2_permeability,cc m-2 24h-1 Pa-1
+271,o2_permeability,g.m-1.d-1.Pa-1
+272,o2_permeability,g d^-1 Pa^-1 m^-1
+273,o2_permeability,cm^3 / (m^2 atm day)
+274,o2_permeability,cc m-2 24h-1
+275,o2_permeability,cm3 m-2 day-1 Pa-1
+276,o2_permeability,cm3.m-2.day-1.bar-1
+277,o2_permeability,g / m^2 s
+278,o2_permeability,kg m^-2 s^-1
+279,o2_permeability,g.m-1.h-1.Pa-1
+280,o2_permeability,mol m-2 s-1 Pa-1
+281,o2_permeability,g.m-1.d-1.kPa-1
+282,o2_permeability,g / m^2 / day
+283,o2_permeability,cc mil m-2 day-1 atm-1
+284,o2_permeability,kg.m.m-2.s-1.pa-1
+285,o2_permeability,cm3.m-1.d-1.atm-1
+286,o2_permeability,cc m-2 24h-1 bar-1
+287,o2_permeability,g.m-1.d-1.atm-1
+288,o2_permeability,g.m-2.day-1
+289,o2_permeability,cm^3 (STP) cm / cm^2 s cm Hg)
+290,o2_permeability,g.mm.day-1.m-2.mmHg-1
+291,o2_permeability,g.h-1.m-1.Pa-1
+292,o2_permeability,cm3.cm.cm-2.s-1.cmHg-1
+293,o2_permeability,g m^-2 day^-1
+294,o2_permeability,cm^3 μm / m^2 day mmHg
+295,o2_permeability,cm^3 (STP) cm / cm^2 s cmHg
+296,o2_permeability,cm^3 / m s Pa
+297,o2_permeability,cm^3 mm / (day m^2 atm)
+298,o2_permeability,cc m / m^2 day atm
+299,o2_permeability,g.mm.m-2.day-1.atm-1
+300,o2_permeability,mol / m2 / s / Pa
+301,o2_permeability,cm3.m-2.day-1.atm-1
+302,o2_permeability,ng m / m^2 s Pa
+303,o2_permeability,cm^3 mm / (m^2 atm day)
+304,o2_permeability,g.m-1.s-1.Pa-1
+305,o2_permeability,gr mil m-2 day-1
+306,o2_permeability,mol m m-2 s-1 Pa-1
+307,o2_permeability,cm3.μm.cm-2.day-1.kPa-1
+308,o2_permeability,g.m-1.hr-1.Pa-1
+309,o2_permeability,cc 100in-2 day-1
+310,o2_permeability,g m / m^2 day atm
+311,o2_permeability,g mm / kPa min m^2
+312,o2_permeability,g / m day atm
+313,o2_permeability,cm3 m-2 day-1
+314,o2_permeability,cm3 µm m-2 d-1 kPa-1
+315,o2_permeability,cc m-2 24h-1 atm-1
+316,impact_strength,megapascal
+317,impact_strength,MPa
+318,ff_c,one
+319,ff_c,None
+320,width,centimeter
+321,width,nanometer
+322,width,decimeter
+323,width,millimeter
+324,width,micrometer
+325,width,milliinch
+326,width,meter
+327,width,inch
+328,width,mm
+329,width,dm
+330,width,m
+331,width,nm
+332,width,cm
+333,width,mil
+334,width,in
+335,width,μm
+336,elongation_at_break_number_of_repetitions,one
+337,elongation_at_break_number_of_repetitions,None
+338,ff_a,one
+339,ff_a,None
+340,concentration,one
+341,concentration,percent
+342,concentration,None
+343,concentration,wt %
+344,concentration,Percentage
+345,concentration,%
+346,elongation_at_break,one
+347,elongation_at_break,percent
+348,elongation_at_break,None
+349,elongation_at_break,wt %
+350,elongation_at_break,Percentage
+351,elongation_at_break,%
+352,rq,one
+353,rq,None
+354,product_density,kilogram by reciprocal cubic meter
+355,product_density,kg.m-3
+356,product_density,kg m-3
+357,rrmax,millimole by reciprocal kilogram by reciprocal hour
+358,rrmax,mole by reciprocal cubic meter by reciprocal second
+359,rrmax,micromole by reciprocal kilogram by reciprocal second
+360,rrmax,nanomole by reciprocal kilogram by reciprocal second
+361,rrmax,milliliter by reciprocal kilogram by reciprocal hour
+362,rrmax,µMole.kg-1.s-1
+363,rrmax,nMole.kg-1.s-1
+364,rrmax,mol.m-3.s-1
+365,rrmax,mmole / kg / hr
+366,gab_xm,gram by reciprocal gram
+367,gab_xm,gram per hectogram
+368,gab_xm,Gram per hundred gram
+369,gab_xm,g / 100g
+370,young_modulus_number_of_repetitions,one
+371,young_modulus_number_of_repetitions,None
+372,number_of_responses,one
+373,number_of_responses,None
+374,crystallization_point_temperature,one
+375,crystallization_point_temperature,None
+376,temperature,degree fahrenheit
+377,temperature,degree celsius
+378,temperature,kelvin
+379,temperature,°C
+380,temperature,°F
+381,temperature,oC
+382,temperature,K
+383,lipid_qty,one
+384,lipid_qty,percent
+385,lipid_qty,None
+386,lipid_qty,wt %
+387,lipid_qty,Percentage
+388,lipid_qty,%
+389,aw,one
+390,aw,percent
+391,aw,None
+392,aw,wt %
+393,aw,Percentage
+394,aw,%
+395,crystallinity,one
+396,crystallinity,percent
+397,crystallinity,None
+398,crystallinity,wt %
+399,crystallinity,Percentage
+400,crystallinity,%
+401,heating_ramp,degree celsius by reciprocal minute
+402,heating_ramp,kelvin by reciprocal minute
+403,heating_ramp,°C.min-1
+404,heating_ramp,K.min-1
+405,melting_point_temperature_number_of_repetitions,one
+406,melting_point_temperature_number_of_repetitions,None
+407,ea,kilojoule by reciprocal mole
+408,ea,kJ / mole
+409,degradation_temperature,one
+410,degradation_temperature,None
+411,ff_b,one
+412,ff_b,None
+413,onset_temperature_number_of_repetitions,one
+414,onset_temperature_number_of_repetitions,None
+415,bulk_density,kilogram by reciprocal cubic meter
+416,bulk_density,gram by reciprocal cubic centimeter
+417,bulk_density,g cm-3
+418,bulk_density,kg.m-3
+419,bulk_density,kg m-3
+420,q10,one
+421,q10,None
+422,relative_humidity,percent
+423,relative_humidity,Percentage
+424,relative_humidity,wt %
+425,relative_humidity,%
+426,enthalpy_of_fusion_number_of_repetitions,one
+427,enthalpy_of_fusion_number_of_repetitions,None
+428,packnumber,one
+429,packnumber,None
+430,ph,millibar
+431,ph,pascal
+432,ph,bar
+433,ph,kilopascal
+434,ph,atmosphere
+435,ph,one
+436,ph,pound per square inch
+437,ph,hectopascal
+438,ph,percent
+439,ph,mbar
+440,ph,hPa
+441,ph,millibars
+442,ph,None
+443,ph,atm
+444,ph,wt %
+445,ph,Percentage
+446,ph,kPa
+447,ph,%
+448,ph,Pa
+449,ph,psi
+450,protein_qty,one
+451,protein_qty,percent
+452,protein_qty,None
+453,protein_qty,wt %
+454,protein_qty,Percentage
+455,protein_qty,%
+456,duration,week
+457,duration,second
+458,duration,day
+459,duration,Week
+460,duration,day
+461,duration,sec
+462,duration,s
+463,product_number,one
+464,product_number,None
+465,stress_at_break,megapascal
+466,stress_at_break,MPa
+467,volatil_partial_pressure,millibar
+468,volatil_partial_pressure,pascal
+469,volatil_partial_pressure,bar
+470,volatil_partial_pressure,atmosphere
+471,volatil_partial_pressure,milliliter per 100 milliliter
+472,volatil_partial_pressure,hectopascal
+473,volatil_partial_pressure,mbar
+474,volatil_partial_pressure,hPa
+475,volatil_partial_pressure,millibars
+476,volatil_partial_pressure,atm
+477,volatil_partial_pressure,ml / 100ml
+478,volatil_partial_pressure,Pa
+479,crosshead_speed,millimeter by reciprocal second
+480,crosshead_speed,millimeter by reciprocal minute
+481,crosshead_speed,mm / min
+482,crosshead_speed,mm / sec
+483,gab_k,one
+484,gab_k,None
+485,co2_permeability,gram by reciprocal meter by reciprocal hour by reciprocal pascal
+486,co2_permeability,gram by reciprocal meter by reciprocal day by reciprocal kilopascal
+487,co2_permeability,cubic centimeter by micrometer by reciprocal square centimeter by reciprocal day by reciprocal kilopascal
+488,co2_permeability,mole per square meter per second per pascal
+489,co2_permeability,gram by reciprocal meter by reciprocal second by reciprocal pascal
+490,co2_permeability,cubic centimeter by reciprocal meter by reciprocal day by reciprocal atmosphere
+491,co2_permeability,cubic centimeter by milliinch by reciprocal square meter by reciprocal day by reciprocal atmosphere
+492,co2_permeability,gram by reciprocal 100 square inch by reciprocal day
+493,co2_permeability,femtoliter by meter by reciprocal square meter by reciprocal second by reciprocal pascal
+494,co2_permeability,cubic centimeter by reciprocal meter by reciprocal second by reciprocal pascal
+495,co2_permeability,kilogram by meter by reciprocal square meter by reciprocal second by reciprocal pascal
+496,co2_permeability,milliliter by reciprocal square meter by reciprocal day by reciprocal atmosphere
+497,co2_permeability,cubic centimeter by millimeter by reciprocal square meter by reciprocal day by reciprocal atmosphere
+498,co2_permeability,cubic centimeter by reciprocal square meter by reciprocal day by reciprocal bar
+499,co2_permeability,new co2 permeability unit
+500,co2_permeability,gram by reciprocal meter by reciprocal day by reciprocal pascal
+501,co2_permeability,gram by millimeter by reciprocal day by reciprocal square meter by reciprocal atmosphere
+502,co2_permeability,cubic centimeter by reciprocal square meter by reciprocal day
+503,co2_permeability,cubic centimeter per 100 square inch per day
+504,co2_permeability,gram by reciprocal meter by reciprocal day by reciprocal atmosphere
+505,co2_permeability,cubic centimeter by centimeter by reciprocal square centimeter by reciprocal second by reciprocal centimeter mercury
+506,co2_permeability,uri 1e-10 by cubic centimeter by centimeter per square centimeter per second per centimeter mercury
+507,co2_permeability,cubic meter by meter by reciprocal square meter by reciprocal second by reciprocal pascal
+508,co2_permeability,gram by millimeter by reciprocal day by reciprocal square meter by reciprocal millimeter mercury
+509,co2_permeability,mole per meter per second per pascal
+510,co2_permeability,cubic centimeter by reciprocal square meter by reciprocal day by reciprocal pascal
+511,co2_permeability,gram by milliinch by reciprocal square meter by reciprocal day
+512,co2_permeability,gram by reciprocal square meter by reciprocal day
+513,co2_permeability,mole by micrometer by reciprocal square centimeter by reciprocal second by reciprocal atmosphere
+514,co2_permeability,milliliter per square meter per 24hours per bar
+515,co2_permeability,cubic centimeter by reciprocal meter by reciprocal day by reciprocal kilopascal
+516,co2_permeability,milliliter per meter per second per pascal
+517,co2_permeability,milliliter per 100 square inch per day
+518,co2_permeability,new permeability unit
+519,co2_permeability,cubic centimeter by micrometer by reciprocal square meter by reciprocal day by reciprocal atmosphere
+520,co2_permeability,cubic centimeter by centimeter by reciprocal square centimeter by reciprocal second by reciprocal pascal
+521,co2_permeability,cubic centimeter by micrometer by reciprocal square centimeter by reciprocal day by reciprocal kilopascal
+522,co2_permeability,cubic centimeter by micrometer by reciprocal square meter by reciprocal day by reciprocal kilopascal
+523,co2_permeability,cubic centimeter by reciprocal meter by reciprocal second by reciprocal pascal
+524,co2_permeability,cubic centimeter by reciprocal square meter by reciprocal day by reciprocal atmosphere
+525,co2_permeability,milliliter by reciprocal square meter by reciprocal day by reciprocal atmosphere
+526,co2_permeability,cubic centimeter by micrometer by reciprocal square meter by reciprocal day by reciprocal atmosphere
+527,co2_permeability,attomole per meter per second per pascal
+528,co2_permeability,mole per meter per second per pascal
+529,co2_permeability,mol / m / s / Pa
+530,co2_permeability,mol.m.m-2.s-1.Pa-1
+531,co2_permeability,cm3 µm cm-2 d-1 kPa-1
+532,co2_permeability,cm^3 mm / (m^2 24 h atm)
+533,co2_permeability,cm3.m-1.s-1.Pa-1
+534,co2_permeability,cm3.m-2.day-1
+535,co2_permeability,cm3.100in-2.day-1
+536,co2_permeability,ml / m / s / Pa
+537,co2_permeability,cm3.m-1.d-1.kPa-1
+538,co2_permeability,amol.m-1.s-1.Pa-1
+539,co2_permeability,cm3 m-2 day-1 atm-1
+540,co2_permeability,cm^3 m / m^2 day kPa
+541,co2_permeability,cm3.µm.m-2.d-1.atm-1
+542,co2_permeability,m3.m.m-2.s-1.Pa-1
+543,co2_permeability,mol m^-1 s^-1 Pa^-1
+544,co2_permeability,mol.m-1.s-1.Pa-1
+545,co2_permeability,fl.m.m-2.s-1.Pa-1
+546,co2_permeability,cm3.cm.cm-2.s-1.Pa-1
+547,co2_permeability,g / m s Pa
+548,co2_permeability,cm3 / (m.s.Pa)
+549,co2_permeability,g m^-1 s^-1 Pa^-1
+550,co2_permeability,cm^3 / m^2 / 10^5 Pa / day
+551,co2_permeability,cm3.µm.m-2.day-1.atm-1
+552,co2_permeability,cm3.m-2.day-1.Pa-1
+553,co2_permeability,cm^3 cm / cm^2 s Pa
+554,co2_permeability,g.mm.day-1.m-2.atm-1
+555,co2_permeability,cm3 m-2 day-1 bar-1
+556,co2_permeability,m^3 m / m^2 s Pa
+557,co2_permeability,mol m^-1 Pa^-1 s^-1
+558,co2_permeability,m3.m / (m2.s.Pa)
+559,co2_permeability,cm3.µm / cm2 / d / kPa
+560,co2_permeability,cm^3 (STP) cm / cm^2 s cmHg)
+561,co2_permeability,mol µm cm-2 s-1 atm-1
+562,co2_permeability,cc / m^2 × day
+563,co2_permeability,cm3 / m / s / Pa
+564,co2_permeability,g m / m^2 s Pa
+565,co2_permeability,mol.µm.cm-2.s-1.atm-1
+566,co2_permeability,g m / m^2 Pa s
+567,co2_permeability,cm3.mm.m-2.day-1.atm-1
+568,co2_permeability,ml / 100in2 / day
+569,co2_permeability,amol / m / s / Pa
+570,co2_permeability,g.100in-2.day-1
+571,co2_permeability,cm3.µm.m-2.day-1.kPa-1
+572,co2_permeability,mol.m-2.s-1.Pa-1
+573,co2_permeability,g.m-1.day-1.Pa-1
+574,co2_permeability,g m^-1 s^-1 Pa
+575,co2_permeability,g m (Pa s m^2)^-1
+576,co2_permeability,g m / m^2 day kPa
+577,co2_permeability,cc m-2 24h-1 Pa-1
+578,co2_permeability,g.m-1.d-1.Pa-1
+579,co2_permeability,g d^-1 Pa^-1 m^-1
+580,co2_permeability,cm^3 / (m^2 atm day)
+581,co2_permeability,cc m-2 24h-1
+582,co2_permeability,cm3 m-2 day-1 Pa-1
+583,co2_permeability,cm3.m-2.day-1.bar-1
+584,co2_permeability,g / m^2 s
+585,co2_permeability,kg m^-2 s^-1
+586,co2_permeability,g.m-1.h-1.Pa-1
+587,co2_permeability,mol m-2 s-1 Pa-1
+588,co2_permeability,g.m-1.d-1.kPa-1
+589,co2_permeability,g / m^2 / day
+590,co2_permeability,cc mil m-2 day-1 atm-1
+591,co2_permeability,kg.m.m-2.s-1.pa-1
+592,co2_permeability,cm3.m-1.d-1.atm-1
+593,co2_permeability,cc m-2 24h-1 bar-1
+594,co2_permeability,g.m-1.d-1.atm-1
+595,co2_permeability,g.m-2.day-1
+596,co2_permeability,cm^3 (STP) cm / cm^2 s cm Hg)
+597,co2_permeability,g.mm.day-1.m-2.mmHg-1
+598,co2_permeability,g.h-1.m-1.Pa-1
+599,co2_permeability,cm3.cm.cm-2.s-1.cmHg-1
+600,co2_permeability,g m^-2 day^-1
+601,co2_permeability,cm^3 μm / m^2 day mmHg
+602,co2_permeability,cm^3 (STP) cm / cm^2 s cmHg
+603,co2_permeability,cm^3 / m s Pa
+604,co2_permeability,cm^3 mm / (day m^2 atm)
+605,co2_permeability,cc m / m^2 day atm
+606,co2_permeability,g.mm.m-2.day-1.atm-1
+607,co2_permeability,mol / m2 / s / Pa
+608,co2_permeability,cm3.m-2.day-1.atm-1
+609,co2_permeability,ng m / m^2 s Pa
+610,co2_permeability,cm^3 mm / (m^2 atm day)
+611,co2_permeability,g.m-1.s-1.Pa-1
+612,co2_permeability,gr mil m-2 day-1
+613,co2_permeability,mol m m-2 s-1 Pa-1
+614,co2_permeability,cm3.μm.cm-2.day-1.kPa-1
+615,co2_permeability,g.m-1.hr-1.Pa-1
+616,co2_permeability,cc 100in-2 day-1
+617,co2_permeability,g m / m^2 day atm
+618,co2_permeability,g mm / kPa min m^2
+619,co2_permeability,g / m day atm
+620,co2_permeability,cm3 m-2 day-1
+621,co2_permeability,cm3 µm m-2 d-1 kPa-1
+622,co2_permeability,cc m-2 24h-1 atm-1
+623,crystallization_point_temperature_number_of_repetitions,one
+624,crystallization_point_temperature_number_of_repetitions,None
+625,dielectric_permitivity,one
+626,dielectric_permitivity,None
+627,km,pascal
+628,km,kilopascal
+629,km,percent
+630,km,wt %
+631,km,Percentage
+632,km,%
+633,km,kPa
+634,km,Pa
+635,component_qty_value,mole by liter
+636,component_qty_value,milliliter
+637,component_qty_value,gram by square meter
+638,component_qty_value,gram
+639,component_qty_value,gram by reciprocal kilogram
+640,component_qty_value,mole
+641,component_qty_value,one
+642,component_qty_value,percent
+643,component_qty_value,None
+644,component_qty_value,wt %
+645,component_qty_value,Molar
+646,component_qty_value,g
+647,component_qty_value,Percentage
+648,component_qty_value,ml
+649,component_qty_value,%
+650,component_qty_value,g kg^-1
+651,component_qty_value,Mol
+652,energy_at_break,millijoule by reciprocal cubic centimeter
+653,energy_at_break,mJ.cm-3
+654,partial_pressure_difference,millibar
+655,partial_pressure_difference,pascal
+656,partial_pressure_difference,bar
+657,partial_pressure_difference,kilopascal
+658,partial_pressure_difference,atmosphere
+659,partial_pressure_difference,pound per square inch
+660,partial_pressure_difference,hectopascal
+661,partial_pressure_difference,percent
+662,partial_pressure_difference,mbar
+663,partial_pressure_difference,hPa
+664,partial_pressure_difference,millibars
+665,partial_pressure_difference,atm
+666,partial_pressure_difference,wt %
+667,partial_pressure_difference,Percentage
+668,partial_pressure_difference,kPa
+669,partial_pressure_difference,%
+670,partial_pressure_difference,Pa
+671,partial_pressure_difference,psi
+672,frequency,reciprocal second
+673,frequency,second-1
+674,frequency,s-1
+675,frequency,second power one
+676,number_of_repetitions,one
+677,number_of_repetitions,None
+678,diffusivity,square meter by reciprocal second
+679,diffusivity,argumentation
+680,diffusivity,m2 s-1
+681,diffusivity,m2.s-1
+682,enthalpy_of_fusion,one
+683,enthalpy_of_fusion,joule by reciprocal gram
+684,enthalpy_of_fusion,Joule.gr-1
+685,enthalpy_of_fusion,None
+686,water_content,percent
+687,water_content,Percentage
+688,water_content,wt %
+689,water_content,%
+690,rrref,milliliter by reciprocal kilogram by reciprocal hour
+691,young_modulus,megapascal
+692,young_modulus,gigapascal
+693,young_modulus,MPa
+694,young_modulus,GPa
+695,gab_c,one
+696,gab_c,None
+697,ki,pascal
+698,ki,kilopascal
+699,ki,percent
+700,ki,wt %
+701,ki,Percentage
+702,ki,%
+703,ki,kPa
+704,ki,Pa
+705,argument_number,one
+706,argument_number,None
+707,degradation_temperature_number_of_repetitions,one
+708,degradation_temperature_number_of_repetitions,None
+709,proteolysis,one
+710,proteolysis,percent
+711,proteolysis,None
+712,proteolysis,wt %
+713,proteolysis,Percentage
+714,proteolysis,%
+715,acetic_acid_qty,millimole by reciprocal kilogram
+716,acetic_acid_qty,milligram by reciprocal kilogram
+717,acetic_acid_qty,mg / kg
+718,acetic_acid_qty,mmol.kg-1
+719,partial_pressure,millibar
+720,partial_pressure,pascal
+721,partial_pressure,bar
+722,partial_pressure,atmosphere
+723,partial_pressure,milliliter per 100 milliliter
+724,partial_pressure,hectopascal
+725,partial_pressure,mbar
+726,partial_pressure,hPa
+727,partial_pressure,millibars
+728,partial_pressure,atm
+729,partial_pressure,ml / 100ml
+730,partial_pressure,Pa
+731,volatil_solubility,liter by reciprocal kilogram by reciprocal atmosphere
+732,volatil_solubility,cubic meter by reciprocal kilogram
+733,volatil_solubility,pascal by reciprocal milligram by reciprocal kilogram
+734,volatil_solubility,cubic centimeter by reciprocal cubic centimeter by reciprocal atmosphere
+735,volatil_solubility,atmosphere by reciprocal mole by mole
+736,volatil_solubility,cubic centimeter by reciprocal cubic centimeter by reciprocal centimeter mercury
+737,volatil_solubility,microgram by reciprocal gram
+738,volatil_solubility,gram by reciprocal gram by reciprocal atmosphere
+739,volatil_solubility,cubic centimeter by reciprocal cubic centimeter
+740,volatil_solubility,cubic centimeter by reciprocal gram by reciprocal atmosphere
+741,volatil_solubility,micromole by reciprocal gram
+742,volatil_solubility,milliliter per 100 milliliter
+743,volatil_solubility,millimole by reciprocal kilogram by reciprocal atmosphere
+744,volatil_solubility,atmosphere by kilogram by reciprocal mole
+745,volatil_solubility,mole by reciprocal gram by reciprocal atmosphere
+746,volatil_solubility,milligram by reciprocal kilogram
+747,volatil_solubility,kilogram by reciprocal kilogram by reciprocal pascal
+748,volatil_solubility,mole by reciprocal kilogram by reciprocal pascal
+749,volatil_solubility,µMole.gr-1
+750,volatil_solubility,cm3.cm-3
+751,volatil_solubility,Atm.Mole-1.Mole
+752,volatil_solubility,l.kg-1.atm-1
+753,volatil_solubility,kg kg-1 Pa-1
+754,volatil_solubility,gr.gr-1.atm-1
+755,volatil_solubility,cm3.cm-3.atm-1
+756,volatil_solubility,Pa.mg-1.kg-1
+757,volatil_solubility,µg.gr-1
+758,volatil_solubility,cm3.cm-3.cm-1 Hg
+759,volatil_solubility,cm3.gr-1.atm-1
+760,volatil_solubility,mol.gr-1.atm-1
+761,volatil_solubility,mol kg-1 Pa-1
+762,volatil_solubility,mg / kg
+763,volatil_solubility,ml / 100ml
+764,volatil_solubility,Atm.kg.Mole-1
+765,volatil_solubility,mmol.kg-1.atm-1
+766,volatil_solubility,m3.kg-1
